@@ -1,0 +1,1028 @@
+[
+  {
+    "serial_number": 1,
+    "name": "সূচনা",
+    "transliteration": "আল ফাতিহা",
+    "revelation_order": 5,
+    "revelation_place": "মক্কা",
+    "ayah_count": 7,
+    "juz_start": 1
+  },
+  {
+    "serial_number": 2,
+    "name": "বকনা-বাছুর-গরু",
+    "transliteration": "আল বাকারা",
+    "revelation_order": 87,
+    "revelation_place": "মদীনা",
+    "ayah_count": 286,
+    "juz_start": 1
+  },
+  {
+    "serial_number": 3,
+    "name": "ইমরানের পরিবার",
+    "transliteration": "আল ইমরান",
+    "revelation_order": 89,
+    "revelation_place": "মদীনা",
+    "ayah_count": 200,
+    "juz_start": 3
+  },
+  {
+    "serial_number": 4,
+    "name": "মহিলা",
+    "transliteration": "আন নিসা",
+    "revelation_order": 92,
+    "revelation_place": "মদীনা",
+    "ayah_count": 176,
+    "juz_start": 4
+  },
+  {
+    "serial_number": 5,
+    "name": "খাদ্য পরিবেশিত টেবিল",
+    "transliteration": "আল মায়িদাহ",
+    "revelation_order": 112,
+    "revelation_place": "মদীনা",
+    "ayah_count": 120,
+    "juz_start": 6
+  },
+  {
+    "serial_number": 6,
+    "name": "গৃহপালিত পশু",
+    "transliteration": "আল আনআম",
+    "revelation_order": 55,
+    "revelation_place": "মক্কা",
+    "ayah_count": 165,
+    "juz_start": 7
+  },
+  {
+    "serial_number": 7,
+    "name": "উচু স্থানসমূহ",
+    "transliteration": "আল আরাফ",
+    "revelation_order": 39,
+    "revelation_place": "মক্কা",
+    "ayah_count": 206,
+    "juz_start": 8
+  },
+  {
+    "serial_number": 8,
+    "name": "যুদ্ধে-লব্ধ ধনসম্পদ",
+    "transliteration": "আল আনফাল",
+    "revelation_order": 88,
+    "revelation_place": "মদীনা",
+    "ayah_count": 75,
+    "juz_start": 9
+  },
+  {
+    "serial_number": 9,
+    "name": "অনুশোচনা",
+    "transliteration": "আত-তাওবাহ্‌",
+    "revelation_order": 113,
+    "revelation_place": "মদীনা",
+    "ayah_count": 129,
+    "juz_start": 10
+  },
+  {
+    "serial_number": 10,
+    "name": "নবী ইউনুস",
+    "transliteration": "ইউনুস",
+    "revelation_order": 51,
+    "revelation_place": "মক্কা",
+    "ayah_count": 109,
+    "juz_start": 11
+  },
+  {
+    "serial_number": 11,
+    "name": "নবী হুদ",
+    "transliteration": "হুদ",
+    "revelation_order": 52,
+    "revelation_place": "মক্কা",
+    "ayah_count": 123,
+    "juz_start": 11
+  },
+  {
+    "serial_number": 12,
+    "name": "নবী ইউসুফ",
+    "transliteration": "ইউসুফ",
+    "revelation_order": 53,
+    "revelation_place": "মক্কা",
+    "ayah_count": 111,
+    "juz_start": 12
+  },
+  {
+    "serial_number": 13,
+    "name": "বজ্রনাদ",
+    "transliteration": "আর-রাদ",
+    "revelation_order": 96,
+    "revelation_place": "মদীনা",
+    "ayah_count": 43,
+    "juz_start": 13
+  },
+  {
+    "serial_number": 14,
+    "name": "নবী ইব্রাহিম",
+    "transliteration": "ইব্রাহীম",
+    "revelation_order": 72,
+    "revelation_place": "মক্কা",
+    "ayah_count": 52,
+    "juz_start": 13
+  },
+  {
+    "serial_number": 15,
+    "name": "পাথুরে পাহাড়",
+    "transliteration": "সূরা আল হিজর",
+    "revelation_order": 54,
+    "revelation_place": "মক্কা",
+    "ayah_count": 99,
+    "juz_start": 14
+  },
+  {
+    "serial_number": 16,
+    "name": "মৌমাছি",
+    "transliteration": "আন নাহল",
+    "revelation_order": 70,
+    "revelation_place": "মক্কা",
+    "ayah_count": 128,
+    "juz_start": 14
+  },
+  {
+    "serial_number": 17,
+    "name": "ইসরায়েলের সন্তানগণ",
+    "transliteration": "বনী-ইসরাঈল",
+    "revelation_order": 50,
+    "revelation_place": "মক্কা",
+    "ayah_count": 111,
+    "juz_start": 15
+  },
+  {
+    "serial_number": 18,
+    "name": "গুহা",
+    "transliteration": "আল কাহফ",
+    "revelation_order": 69,
+    "revelation_place": "মক্কা",
+    "ayah_count": 110,
+    "juz_start": 15
+  },
+  {
+    "serial_number": 19,
+    "name": "মারিয়াম (নবী ঈসার মা)",
+    "transliteration": "মারইয়াম",
+    "revelation_order": 44,
+    "revelation_place": "মক্কা",
+    "ayah_count": 98,
+    "juz_start": 16
+  },
+  {
+    "serial_number": 20,
+    "name": "ত্বোয়া-হা",
+    "transliteration": "ত্বোয়া-হা",
+    "revelation_order": 45,
+    "revelation_place": "মক্কা",
+    "ayah_count": 135,
+    "juz_start": 16
+  },
+  {
+    "serial_number": 21,
+    "name": "নবীগণ",
+    "transliteration": "আল আম্বিয়া",
+    "revelation_order": 73,
+    "revelation_place": "মদীনা",
+    "ayah_count": 112,
+    "juz_start": 17
+  },
+  {
+    "serial_number": 22,
+    "name": "হাজ্জ",
+    "transliteration": "আল হাজ্জ্ব",
+    "revelation_order": 103,
+    "revelation_place": "মদীনা",
+    "ayah_count": 78,
+    "juz_start": 17
+  },
+  {
+    "serial_number": 23,
+    "name": "বিশ্বাসীগণ",
+    "transliteration": "আল মু'মিনূন",
+    "revelation_order": 74,
+    "revelation_place": "মদীনা",
+    "ayah_count": 118,
+    "juz_start": 18
+  },
+  {
+    "serial_number": 24,
+    "name": "আলো, জ্যোতি",
+    "transliteration": "আন নূর",
+    "revelation_order": 102,
+    "revelation_place": "মদীনা",
+    "ayah_count": 64,
+    "juz_start": 18
+  },
+  {
+    "serial_number": 25,
+    "name": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
+    "transliteration": "আল ফুরকান",
+    "revelation_order": 42,
+    "revelation_place": "মক্কা",
+    "ayah_count": 77,
+    "juz_start": 19
+  },
+  {
+    "serial_number": 26,
+    "name": "কবিগণ",
+    "transliteration": "আশ শুআরা",
+    "revelation_order": 47,
+    "revelation_place": "মক্কা",
+    "ayah_count": 227,
+    "juz_start": 19
+  },
+  {
+    "serial_number": 27,
+    "name": "পিপীলিকা",
+    "transliteration": "আন নম্‌ল",
+    "revelation_order": 48,
+    "revelation_place": "মক্কা",
+    "ayah_count": 93,
+    "juz_start": 20
+  },
+  {
+    "serial_number": 28,
+    "name": "ঘটনা, কাহিনী",
+    "transliteration": "আল কাসাস",
+    "revelation_order": 49,
+    "revelation_place": "মক্কা",
+    "ayah_count": 88,
+    "juz_start": 20
+  },
+  {
+    "serial_number": 29,
+    "name": "মাকড়সা",
+    "transliteration": "আল আনকাবূত",
+    "revelation_order": 85,
+    "revelation_place": "মদীনা",
+    "ayah_count": 69,
+    "juz_start": 21
+  },
+  {
+    "serial_number": 30,
+    "name": "রোমান জাতি",
+    "transliteration": "আর রুম",
+    "revelation_order": 84,
+    "revelation_place": "মদীনা",
+    "ayah_count": 60,
+    "juz_start": 21
+  },
+  {
+    "serial_number": 31,
+    "name": "একজন জ্ঞানী ব্যক্তি",
+    "transliteration": "লোক্‌মান",
+    "revelation_order": 57,
+    "revelation_place": "মক্কা",
+    "ayah_count": 34,
+    "juz_start": 21
+  },
+  {
+    "serial_number": 32,
+    "name": "সিজদাহ",
+    "transliteration": "আস সেজদাহ্",
+    "revelation_order": 75,
+    "revelation_place": "মদীনা",
+    "ayah_count": 30,
+    "juz_start": 21
+  },
+  {
+    "serial_number": 33,
+    "name": "জোট",
+    "transliteration": "আল আহ্‌যাব",
+    "revelation_order": 90,
+    "revelation_place": "মদীনা",
+    "ayah_count": 73,
+    "juz_start": 21
+  },
+  {
+    "serial_number": 34,
+    "name": "রানী সাবা",
+    "transliteration": "সাবা",
+    "revelation_order": 58,
+    "revelation_place": "মক্কা",
+    "ayah_count": 54,
+    "juz_start": 22
+  },
+  {
+    "serial_number": 35,
+    "name": "আদি স্রষ্টা",
+    "transliteration": "ফাতির",
+    "revelation_order": 43,
+    "revelation_place": "মক্কা",
+    "ayah_count": 45,
+    "juz_start": 22
+  },
+  {
+    "serial_number": 36,
+    "name": "ইয়াসীন",
+    "transliteration": "ইয়াসীন",
+    "revelation_order": 41,
+    "revelation_place": "মক্কা",
+    "ayah_count": 83,
+    "juz_start": 22
+  },
+  {
+    "serial_number": 37,
+    "name": "সারিবদ্ধভাবে দাঁড়ানো",
+    "transliteration": "আস ছাফ্‌ফাত",
+    "revelation_order": 56,
+    "revelation_place": "মক্কা",
+    "ayah_count": 182,
+    "juz_start": 23
+  },
+  {
+    "serial_number": 38,
+    "name": "আরবি বর্ণ",
+    "transliteration": "ছোয়াদ",
+    "revelation_order": 38,
+    "revelation_place": "মক্কা",
+    "ayah_count": 88,
+    "juz_start": 23
+  },
+  {
+    "serial_number": 39,
+    "name": "দল-বদ্ধ জনতা",
+    "transliteration": "আয-জুমার",
+    "revelation_order": 59,
+    "revelation_place": "মক্কা",
+    "ayah_count": 75,
+    "juz_start": 23
+  },
+  {
+    "serial_number": 40,
+    "name": "বিশ্বাসী",
+    "transliteration": "আল মু'মিন",
+    "revelation_order": 60,
+    "revelation_place": "মক্কা",
+    "ayah_count": 85,
+    "juz_start": 24
+  },
+  {
+    "serial_number": 41,
+    "name": "সুস্পষ্ট বিবরণ",
+    "transliteration": "হা-মীম সেজদাহ্‌",
+    "revelation_order": 61,
+    "revelation_place": "মক্কা",
+    "ayah_count": 54,
+    "juz_start": 24
+  },
+  {
+    "serial_number": 42,
+    "name": "পরামর্শ",
+    "transliteration": "আশ্‌-শূরা",
+    "revelation_order": 62,
+    "revelation_place": "মক্কা",
+    "ayah_count": 53,
+    "juz_start": 25
+  },
+  {
+    "serial_number": 43,
+    "name": "সোনাদানা",
+    "transliteration": "আয্‌-যুখরুফ",
+    "revelation_order": 63,
+    "revelation_place": "মক্কা",
+    "ayah_count": 89,
+    "juz_start": 25
+  },
+  {
+    "serial_number": 44,
+    "name": "ধোঁয়া",
+    "transliteration": "আদ-দোখান",
+    "revelation_order": 64,
+    "revelation_place": "মক্কা",
+    "ayah_count": 59,
+    "juz_start": 25
+  },
+  {
+    "serial_number": 45,
+    "name": "নতজানু",
+    "transliteration": "আল জাসিয়াহ",
+    "revelation_order": 65,
+    "revelation_place": "মক্কা",
+    "ayah_count": 37,
+    "juz_start": 25
+  },
+  {
+    "serial_number": 46,
+    "name": "বালুর পাহাড়",
+    "transliteration": "আল আহ্‌ক্বাফ",
+    "revelation_order": 66,
+    "revelation_place": "মক্কা",
+    "ayah_count": 35,
+    "juz_start": 26
+  },
+  {
+    "serial_number": 47,
+    "name": "নবী মুহাম্মদ",
+    "transliteration": "মুহাম্মদ",
+    "revelation_order": 95,
+    "revelation_place": "মদীনা",
+    "ayah_count": 38,
+    "juz_start": 26
+  },
+  {
+    "serial_number": 48,
+    "name": "বিজয় (মক্কা বিজয়)",
+    "transliteration": "আল ফাত্‌হ",
+    "revelation_order": 111,
+    "revelation_place": "মদীনা",
+    "ayah_count": 29,
+    "juz_start": 26
+  },
+  {
+    "serial_number": 49,
+    "name": "বাসগৃহসমূহ",
+    "transliteration": "আল হুজুরাত",
+    "revelation_order": 106,
+    "revelation_place": "মদীনা",
+    "ayah_count": 18,
+    "juz_start": 26
+  },
+  {
+    "serial_number": 50,
+    "name": "আরবি বর্ণ ক্বাফ",
+    "transliteration": "ক্বাফ",
+    "revelation_order": 34,
+    "revelation_place": "মক্কা",
+    "ayah_count": 45,
+    "juz_start": 26
+  },
+  {
+    "serial_number": 51,
+    "name": "বিক্ষেপকারী বাতাস",
+    "transliteration": "আয-যারিয়াত",
+    "revelation_order": 67,
+    "revelation_place": "মক্কা",
+    "ayah_count": 60,
+    "juz_start": 26
+  },
+  {
+    "serial_number": 52,
+    "name": "পাহাড়",
+    "transliteration": "আত্ব তূর",
+    "revelation_order": 76,
+    "revelation_place": "মদীনা",
+    "ayah_count": 49,
+    "juz_start": 27
+  },
+  {
+    "serial_number": 53,
+    "name": "তারা",
+    "transliteration": "আন-নাজম",
+    "revelation_order": 23,
+    "revelation_place": "মক্কা",
+    "ayah_count": 62,
+    "juz_start": 27
+  },
+  {
+    "serial_number": 54,
+    "name": "চন্দ্র",
+    "transliteration": "আল ক্বামার",
+    "revelation_order": 37,
+    "revelation_place": "মক্কা",
+    "ayah_count": 55,
+    "juz_start": 27
+  },
+  {
+    "serial_number": 55,
+    "name": "অনন্ত করুণাময়",
+    "transliteration": "আর রাহমান",
+    "revelation_order": 97,
+    "revelation_place": "মদীনা",
+    "ayah_count": 78,
+    "juz_start": 27
+  },
+  {
+    "serial_number": 56,
+    "name": "নিশ্চিত ঘটনা",
+    "transliteration": "আল-ওয়াকিয়াহ",
+    "revelation_order": 46,
+    "revelation_place": "মক্কা",
+    "ayah_count": 96,
+    "juz_start": 27
+  },
+  {
+    "serial_number": 57,
+    "name": "লোহা",
+    "transliteration": "আল-হাদীদ",
+    "revelation_order": 94,
+    "revelation_place": "মদীনা",
+    "ayah_count": 29,
+    "juz_start": 27
+  },
+  {
+    "serial_number": 58,
+    "name": "অনুযোগকারিণী",
+    "transliteration": "আল-মুজাদালাহ",
+    "revelation_order": 105,
+    "revelation_place": "মদীনা",
+    "ayah_count": 22,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 59,
+    "name": "সমাবেশ",
+    "transliteration": "আল-হাশর",
+    "revelation_order": 101,
+    "revelation_place": "মদীনা",
+    "ayah_count": 24,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 60,
+    "name": "নারী, যাকে পরীক্ষা করা হবে",
+    "transliteration": "আল-মুমতাহিনাহ",
+    "revelation_order": 91,
+    "revelation_place": "মদীনা",
+    "ayah_count": 13,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 61,
+    "name": "সারবন্দী সৈন্যদল",
+    "transliteration": "আস-সাফ",
+    "revelation_order": 109,
+    "revelation_place": "মদীনা",
+    "ayah_count": 14,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 62,
+    "name": "সম্মেলন/শুক্রবার",
+    "transliteration": "আল-জুমুআ",
+    "revelation_order": 110,
+    "revelation_place": "মদীনা",
+    "ayah_count": 11,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 63,
+    "name": "কপট বিশ্বাসীগণ",
+    "transliteration": "আল-মুনাফিকুন",
+    "revelation_order": 104,
+    "revelation_place": "মদীনা",
+    "ayah_count": 11,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 64,
+    "name": "মোহ অপসারণ",
+    "transliteration": "আত-তাগাবুন",
+    "revelation_order": 108,
+    "revelation_place": "মদীনা",
+    "ayah_count": 18,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 65,
+    "name": "তালাক, বন্ধনমুক্তি",
+    "transliteration": "আত-তালাক",
+    "revelation_order": 99,
+    "revelation_place": "মদীনা",
+    "ayah_count": 12,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 66,
+    "name": "নিষিদ্ধকরণ",
+    "transliteration": "আত-তাহরীম",
+    "revelation_order": 107,
+    "revelation_place": "মদীনা",
+    "ayah_count": 12,
+    "juz_start": 28
+  },
+  {
+    "serial_number": 67,
+    "name": "সার্বভৌম কর্তৃত্ব",
+    "transliteration": "আল-মুলক",
+    "revelation_order": 77,
+    "revelation_place": "মক্কা",
+    "ayah_count": 30,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 68,
+    "name": "কলম",
+    "transliteration": "আল-কলম",
+    "revelation_order": 2,
+    "revelation_place": "মক্কা",
+    "ayah_count": 52,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 69,
+    "name": "নিশ্চিত সত্য",
+    "transliteration": "আল-হাক্কাহ",
+    "revelation_order": 78,
+    "revelation_place": "মক্কা",
+    "ayah_count": 52,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 70,
+    "name": "উন্নয়নের সোপান",
+    "transliteration": "আল-মাআরিজ",
+    "revelation_order": 79,
+    "revelation_place": "মক্কা",
+    "ayah_count": 44,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 71,
+    "name": "নবী নূহ",
+    "transliteration": "নূহ",
+    "revelation_order": 71,
+    "revelation_place": "মক্কা",
+    "ayah_count": 28,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 72,
+    "name": "জ্বিন সম্প্রদায়",
+    "transliteration": "আল জ্বিন",
+    "revelation_order": 40,
+    "revelation_place": "মক্কা",
+    "ayah_count": 28,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 73,
+    "name": "বস্ত্র আচ্ছাদনকারী",
+    "transliteration": "আল মুজাম্মিল",
+    "revelation_order": 3,
+    "revelation_place": "মক্কা",
+    "ayah_count": 20,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 74,
+    "name": "পোশাক পরিহিত",
+    "transliteration": "আল মুদ্দাস্সির",
+    "revelation_order": 4,
+    "revelation_place": "মক্কা",
+    "ayah_count": 56,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 75,
+    "name": "পুনরুত্থান",
+    "transliteration": "আল-ক্বিয়ামাহ",
+    "revelation_order": 31,
+    "revelation_place": "মক্কা",
+    "ayah_count": 40,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 76,
+    "name": "মানুষ",
+    "transliteration": "আদ-দাহর",
+    "revelation_order": 98,
+    "revelation_place": "মদীনা",
+    "ayah_count": 31,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 77,
+    "name": "প্রেরিত পুরুষবৃন্দ",
+    "transliteration": "আল-মুরসালাত",
+    "revelation_order": 33,
+    "revelation_place": "মক্কা",
+    "ayah_count": 50,
+    "juz_start": 29
+  },
+  {
+    "serial_number": 78,
+    "name": "মহাসংবাদ",
+    "transliteration": "আন নাবা",
+    "revelation_order": 80,
+    "revelation_place": "মক্কা",
+    "ayah_count": 40,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 79,
+    "name": "প্রচেষ্টাকারী",
+    "transliteration": "আন নাযিয়াত",
+    "revelation_order": 81,
+    "revelation_place": "মক্কা",
+    "ayah_count": 46,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 80,
+    "name": "তিনি ভ্রুকুটি করলেন",
+    "transliteration": "আবাসা",
+    "revelation_order": 24,
+    "revelation_place": "মক্কা",
+    "ayah_count": 42,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 81,
+    "name": "অন্ধকারাচ্ছন্ন",
+    "transliteration": "আত-তাকভীর",
+    "revelation_order": 7,
+    "revelation_place": "মক্কা",
+    "ayah_count": 29,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 82,
+    "name": "বিদীর্ণ করা",
+    "transliteration": "আল-ইনফিতার",
+    "revelation_order": 82,
+    "revelation_place": "মক্কা",
+    "ayah_count": 19,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 83,
+    "name": "প্রতারকগণ",
+    "transliteration": "আত মুত্বাফ্‌ফিফীন",
+    "revelation_order": 86,
+    "revelation_place": "মক্কা",
+    "ayah_count": 36,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 84,
+    "name": "খন্ড-বিখন্ড করণ",
+    "transliteration": "আল ইন‌শিকাক",
+    "revelation_order": 83,
+    "revelation_place": "মক্কা",
+    "ayah_count": 25,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 85,
+    "name": "নক্ষত্রপুঞ্জ",
+    "transliteration": "আল-বুরুজ",
+    "revelation_order": 27,
+    "revelation_place": "মক্কা",
+    "ayah_count": 22,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 86,
+    "name": "রাতের আগন্তুক",
+    "transliteration": "আত-তারিক্ব",
+    "revelation_order": 36,
+    "revelation_place": "মক্কা",
+    "ayah_count": 17,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 87,
+    "name": "সর্বোর্ধ্ব",
+    "transliteration": "আল আ'লা",
+    "revelation_order": 8,
+    "revelation_place": "মক্কা",
+    "ayah_count": 19,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 88,
+    "name": "বিহ্বলকর ঘটনা",
+    "transliteration": "আল গাশিয়াহ্‌",
+    "revelation_order": 68,
+    "revelation_place": "মক্কা",
+    "ayah_count": 26,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 89,
+    "name": "ভোরবেলা",
+    "transliteration": "আল ফাজ্‌র",
+    "revelation_order": 10,
+    "revelation_place": "মক্কা",
+    "ayah_count": 30,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 90,
+    "name": "নগর",
+    "transliteration": "আল বালাদ",
+    "revelation_order": 35,
+    "revelation_place": "মক্কা",
+    "ayah_count": 20,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 91,
+    "name": "সূর্য্য",
+    "transliteration": "আশ-শাম্‌স",
+    "revelation_order": 26,
+    "revelation_place": "মক্কা",
+    "ayah_count": 15,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 92,
+    "name": "রাত্রি",
+    "transliteration": "আল লাইল",
+    "revelation_order": 9,
+    "revelation_place": "মক্কা",
+    "ayah_count": 21,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 93,
+    "name": "পূর্বাহ্নের সূর্যকিরণ",
+    "transliteration": "আদ-দুহা",
+    "revelation_order": 11,
+    "revelation_place": "মক্কা",
+    "ayah_count": 11,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 94,
+    "name": "বক্ষ প্রশস্তকরণ",
+    "transliteration": "আল ইনশিরাহ",
+    "revelation_order": 12,
+    "revelation_place": "মক্কা",
+    "ayah_count": 8,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 95,
+    "name": "ডুমুর",
+    "transliteration": "ত্বীন",
+    "revelation_order": 28,
+    "revelation_place": "মক্কা",
+    "ayah_count": 8,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 96,
+    "name": "রক্তপিন্ড",
+    "transliteration": "আলাক্ব",
+    "revelation_order": 1,
+    "revelation_place": "মক্কা",
+    "ayah_count": 19,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 97,
+    "name": "পরিমাণ",
+    "transliteration": "ক্বদর",
+    "revelation_order": 25,
+    "revelation_place": "মক্কা",
+    "ayah_count": 5,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 98,
+    "name": "সুস্পষ্ট প্রমাণ",
+    "transliteration": "বাইয়্যিনাহ",
+    "revelation_order": 100,
+    "revelation_place": "মদীনা",
+    "ayah_count": 8,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 99,
+    "name": "ভূমিকম্প",
+    "transliteration": "যিলযাল",
+    "revelation_order": 93,
+    "revelation_place": "মদীনা",
+    "ayah_count": 8,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 100,
+    "name": "অভিযানকারী",
+    "transliteration": "আল-আদিয়াত",
+    "revelation_order": 14,
+    "revelation_place": "মক্কা",
+    "ayah_count": 11,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 101,
+    "name": "মহাসংকট",
+    "transliteration": "ক্বারিয়াহ",
+    "revelation_order": 30,
+    "revelation_place": "মক্কা",
+    "ayah_count": 11,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 102,
+    "name": "প্রাচুর্যের প্রতিযোগিতা",
+    "transliteration": "তাকাসুর",
+    "revelation_order": 16,
+    "revelation_place": "মক্কা",
+    "ayah_count": 8,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 103,
+    "name": "অপরাহ্ন",
+    "transliteration": "আছর",
+    "revelation_order": 13,
+    "revelation_place": "মক্কা",
+    "ayah_count": 3,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 104,
+    "name": "পরনিন্দাকারী",
+    "transliteration": "হুমাযাহ",
+    "revelation_order": 32,
+    "revelation_place": "মক্কা",
+    "ayah_count": 9,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 105,
+    "name": "হাতি",
+    "transliteration": "ফীল",
+    "revelation_order": 19,
+    "revelation_place": "মক্কা",
+    "ayah_count": 5,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 106,
+    "name": "কুরাইশ গোত্র",
+    "transliteration": "কুরাইশ",
+    "revelation_order": 29,
+    "revelation_place": "মক্কা",
+    "ayah_count": 4,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 107,
+    "name": "সাহায্য-সহায়তা",
+    "transliteration": "মাউন",
+    "revelation_order": 17,
+    "revelation_place": "মক্কা",
+    "ayah_count": 7,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 108,
+    "name": "প্রাচুর্য",
+    "transliteration": "কাওসার",
+    "revelation_order": 15,
+    "revelation_place": "মক্কা",
+    "ayah_count": 3,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 109,
+    "name": "অস্বীকারকারীগণ",
+    "transliteration": "কাফিরুন",
+    "revelation_order": 18,
+    "revelation_place": "মক্কা",
+    "ayah_count": 6,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 110,
+    "name": "বিজয়,সাহায্য",
+    "transliteration": "নাসর",
+    "revelation_order": 114,
+    "revelation_place": "মদীনা",
+    "ayah_count": 3,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 111,
+    "name": "জ্বলন্ত অঙ্গার",
+    "transliteration": "লাহাব",
+    "revelation_order": 6,
+    "revelation_place": "মক্কা",
+    "ayah_count": 5,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 112,
+    "name": "একনিষ্ঠতা",
+    "transliteration": "আল-ইখলাস",
+    "revelation_order": 22,
+    "revelation_place": "মক্কা",
+    "ayah_count": 4,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 113,
+    "name": "নিশিভোর",
+    "transliteration": "আল-ফালাক",
+    "revelation_order": 20,
+    "revelation_place": "মক্কা",
+    "ayah_count": 5,
+    "juz_start": 30
+  },
+  {
+    "serial_number": 114,
+    "name": "মানবজাতি",
+    "transliteration": "আন-নাস",
+    "revelation_order": 21,
+    "revelation_place": "মক্কা",
+    "ayah_count": 6,
+    "juz_start": 30
+  }
+]
