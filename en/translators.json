@@ -1,0 +1,15 @@
+[
+  { "name": "The Clear Quran (Mustafa Khattab)", "bio": "The Clear Quran (Mustafa Khattab)", "language_code": "en" },
+  { "name": "Saheeh International", "bio": "Saheeh International", "language_code": "en" },
+  { "name": "Mufti Taqi Usmani", "bio": "Mufti Taqi Usmani", "language_code": "en" },
+  { "name": "Abdel Haleem", "bio": "Abdel Haleem", "language_code": "en" },
+  { "name": "Abul Alaa Maududi", "bio": "Abul Alaa Maududi", "language_code": "en" },
+  { "name": "Pickthall", "bio": "Pickthall", "language_code": "en" },
+  { "name": "Yusuf Ali", "bio": "Yusuf Ali", "language_code": "en" },
+  { "name": "Hilali & Khan", "bio": "Hilali & Khan", "language_code": "en" },
+
+  { "name": "তাফসিরুল কোরআন", "bio": "Taisirul Quran", "language_code": "bn" },
+  { "name": "শেখ মুজিবুর রহমান", "bio": "Sheikh Mujibur Rahman", "language_code": "bn" },
+  { "name": "রাওয়াই আল-বায়ান", "bio": "Rawai Al-bayan", "language_code": "bn" },
+  { "name": "ড. আবু বকর মুহাম্মদ জাকারিয়া", "bio": "Dr. Abu Bakr Muhammad Zakaria", "language_code": "bn" }
+]
