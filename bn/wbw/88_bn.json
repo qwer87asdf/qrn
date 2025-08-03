@@ -51,7 +51,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "আচ্ছন্নকারী (ক্বিয়ামাতের)",
-        "root_word": "ٱلۡغَٰشِيَةِ",
+        "root_word": "الۡغَٰشِيَةِ",
         "global_word_sequence_number": 76312,
         "global_verse_sequence_number": 5968
     },
@@ -779,7 +779,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "উটের",
-        "root_word": "ٱلۡإِبِلِ",
+        "root_word": "الۡإِبِلِ",
         "global_word_sequence_number": 76364,
         "global_verse_sequence_number": 5984
     },
@@ -835,7 +835,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "আকাশের",
-        "root_word": "ٱلسَّمَآءِ",
+        "root_word": "السَّمَآءِ",
         "global_word_sequence_number": 76368,
         "global_verse_sequence_number": 5985
     },
@@ -891,7 +891,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "পর্বতমালার",
-        "root_word": "ٱلۡجِبَالِ",
+        "root_word": "الۡجِبَالِ",
         "global_word_sequence_number": 76372,
         "global_verse_sequence_number": 5986
     },
@@ -947,7 +947,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "পৃথিবীর",
-        "root_word": "ٱلۡأَرۡضِ",
+        "root_word": "الۡأَرۡضِ",
         "global_word_sequence_number": 76376,
         "global_verse_sequence_number": 5987
     },
@@ -1157,7 +1157,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "আল্লাহ্‌",
-        "root_word": "ٱللَّهُ",
+        "root_word": "اللَّهُ",
         "global_word_sequence_number": 76391,
         "global_verse_sequence_number": 5991
     },
@@ -1171,7 +1171,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "শাস্তি",
-        "root_word": "ٱلۡعَذَابَ",
+        "root_word": "الۡعَذَابَ",
         "global_word_sequence_number": 76392,
         "global_verse_sequence_number": 5991
     },
@@ -1185,7 +1185,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "মহা",
-        "root_word": "ٱلۡأَكۡبَرَ",
+        "root_word": "الۡأَكۡبَرَ",
         "global_word_sequence_number": 76393,
         "global_verse_sequence_number": 5991
     },

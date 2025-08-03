@@ -23,7 +23,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "প্রাচুর্যের প্রতিযোগিতা",
-        "root_word": "ٱلتَّكَاثُرُ",
+        "root_word": "التَّكَاثُرُ",
         "global_word_sequence_number": 77155,
         "global_verse_sequence_number": 6169
     },
@@ -65,7 +65,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "কবরসমূহে",
-        "root_word": "ٱلۡمَقَابِرَ",
+        "root_word": "الۡمَقَابِرَ",
         "global_word_sequence_number": 77158,
         "global_verse_sequence_number": 6170
     },
@@ -233,7 +233,7 @@
         "word_number_in_verse": 5,
         "language_code": "bn",
         "text": "নিশ্চিত",
-        "root_word": "ٱلۡيَقِينِ",
+        "root_word": "الۡيَقِينِ",
         "global_word_sequence_number": 77170,
         "global_verse_sequence_number": 6173
     },
@@ -261,7 +261,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "দোযখ",
-        "root_word": "ٱلۡجَحِيمَ",
+        "root_word": "الۡجَحِيمَ",
         "global_word_sequence_number": 77172,
         "global_verse_sequence_number": 6174
     },

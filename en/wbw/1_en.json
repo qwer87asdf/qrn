@@ -23,7 +23,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(of) Allah",
-        "root_word": "ٱللَّهِ",
+        "root_word": "اللَّهِ",
         "global_word_sequence_number": 2,
         "global_verse_sequence_number": 1
     },
@@ -37,7 +37,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the Most Gracious",
-        "root_word": "ٱلرَّحۡمَٰنِ",
+        "root_word": "الرَّحۡمَٰنِ",
         "global_word_sequence_number": 3,
         "global_verse_sequence_number": 1
     },
@@ -51,7 +51,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the Most Merciful",
-        "root_word": "ٱلرَّحِيمِ",
+        "root_word": "الرَّحِيمِ",
         "global_word_sequence_number": 4,
         "global_verse_sequence_number": 1
     },

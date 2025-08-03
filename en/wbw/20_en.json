@@ -65,7 +65,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the Quran",
-        "root_word": "ٱلۡقُرۡءَانَ",
+        "root_word": "الۡقُرۡءَانَ",
         "global_word_sequence_number": 40088,
         "global_verse_sequence_number": 2350
     },
@@ -191,7 +191,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the earth",
-        "root_word": "ٱلۡأَرۡضَ",
+        "root_word": "الۡأَرۡضَ",
         "global_word_sequence_number": 40097,
         "global_verse_sequence_number": 2352
     },
@@ -205,7 +205,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "and the heavens",
-        "root_word": "وَٱلسَّمَٰوَٰتِ",
+        "root_word": "وَالسَّمَٰوَٰتِ",
         "global_word_sequence_number": 40098,
         "global_verse_sequence_number": 2352
     },
@@ -219,7 +219,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "[the] high",
-        "root_word": "ٱلۡعُلَى",
+        "root_word": "الۡعُلَى",
         "global_word_sequence_number": 40099,
         "global_verse_sequence_number": 2352
     },
@@ -233,7 +233,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "The Most Gracious",
-        "root_word": "ٱلرَّحۡمَٰنُ",
+        "root_word": "الرَّحۡمَٰنُ",
         "global_word_sequence_number": 40100,
         "global_verse_sequence_number": 2353
     },
@@ -261,7 +261,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the Throne",
-        "root_word": "ٱلۡعَرۡشِ",
+        "root_word": "الۡعَرۡشِ",
         "global_word_sequence_number": 40102,
         "global_verse_sequence_number": 2353
     },
@@ -275,7 +275,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "is established",
-        "root_word": "ٱسۡتَوَىٰ",
+        "root_word": "اسۡتَوَىٰ",
         "global_word_sequence_number": 40103,
         "global_verse_sequence_number": 2353
     },
@@ -331,7 +331,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the heavens",
-        "root_word": "ٱلسَّمَٰوَٰتِ",
+        "root_word": "السَّمَٰوَٰتِ",
         "global_word_sequence_number": 40107,
         "global_verse_sequence_number": 2354
     },
@@ -373,7 +373,7 @@
         "word_number_in_verse": 7,
         "language_code": "en",
         "text": "the earth",
-        "root_word": "ٱلۡأَرۡضِ",
+        "root_word": "الۡأَرۡضِ",
         "global_word_sequence_number": 40110,
         "global_verse_sequence_number": 2354
     },
@@ -443,7 +443,7 @@
         "word_number_in_verse": 12,
         "language_code": "en",
         "text": "the soil",
-        "root_word": "ٱلثَّرَىٰ",
+        "root_word": "الثَّرَىٰ",
         "global_word_sequence_number": 40115,
         "global_verse_sequence_number": 2354
     },
@@ -485,7 +485,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the word",
-        "root_word": "بِٱلۡقَوۡلِ",
+        "root_word": "بِالۡقَوۡلِ",
         "global_word_sequence_number": 40118,
         "global_verse_sequence_number": 2355
     },

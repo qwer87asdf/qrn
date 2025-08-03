@@ -23,7 +23,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "আকাশ",
-        "root_word": "ٱلسَّمَآءُ",
+        "root_word": "السَّمَآءُ",
         "global_word_sequence_number": 75961,
         "global_verse_sequence_number": 5885
     },
@@ -37,7 +37,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "ফেটে পড়বে",
-        "root_word": "ٱنشَقَّتۡ",
+        "root_word": "انشَقَّتۡ",
         "global_word_sequence_number": 75962,
         "global_verse_sequence_number": 5885
     },
@@ -107,7 +107,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "পৃথিবী",
-        "root_word": "ٱلۡأَرۡضُ",
+        "root_word": "الۡأَرۡضُ",
         "global_word_sequence_number": 75967,
         "global_verse_sequence_number": 5887
     },
@@ -247,7 +247,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "মানুষ",
-        "root_word": "ٱلۡإِنسَٰنُ",
+        "root_word": "الۡإِنسَٰنُ",
         "global_word_sequence_number": 75977,
         "global_verse_sequence_number": 5890
     },
@@ -933,7 +933,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "পশ্চিম দিগন্তের সান্ধ্য লালিমার",
-        "root_word": "بِٱلشَّفَقِ",
+        "root_word": "بِالشَّفَقِ",
         "global_word_sequence_number": 76026,
         "global_verse_sequence_number": 5900
     },
@@ -947,7 +947,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "এবং শপথ রাতের",
-        "root_word": "وَٱلَّيۡلِ",
+        "root_word": "وَالَّيۡلِ",
         "global_word_sequence_number": 76027,
         "global_verse_sequence_number": 5901
     },
@@ -989,7 +989,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "এবং শপথ চাঁদের",
-        "root_word": "وَٱلۡقَمَرِ",
+        "root_word": "وَالۡقَمَرِ",
         "global_word_sequence_number": 76030,
         "global_verse_sequence_number": 5902
     },
@@ -1017,7 +1017,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "পূর্ণ হয়",
-        "root_word": "ٱتَّسَقَ",
+        "root_word": "اتَّسَقَ",
         "global_word_sequence_number": 76032,
         "global_verse_sequence_number": 5902
     },
@@ -1185,7 +1185,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "কুর'আন",
-        "root_word": "ٱلۡقُرۡءَانُ",
+        "root_word": "الۡقُرۡءَانُ",
         "global_word_sequence_number": 76044,
         "global_verse_sequence_number": 5905
     },
@@ -1241,7 +1241,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "যারা",
-        "root_word": "ٱلَّذِينَ",
+        "root_word": "الَّذِينَ",
         "global_word_sequence_number": 76048,
         "global_verse_sequence_number": 5906
     },
@@ -1283,7 +1283,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "এবং আল্লাহ",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 76051,
         "global_verse_sequence_number": 5907
     },
@@ -1395,7 +1395,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "(ঐসব লোক) যারা",
-        "root_word": "ٱلَّذِينَ",
+        "root_word": "الَّذِينَ",
         "global_word_sequence_number": 76059,
         "global_verse_sequence_number": 5909
     },
@@ -1437,7 +1437,7 @@
         "word_number_in_verse": 5,
         "language_code": "bn",
         "text": "সৎকর্ম",
-        "root_word": "ٱلصَّٰلِحَٰتِ",
+        "root_word": "الصَّٰلِحَٰتِ",
         "global_word_sequence_number": 76062,
         "global_verse_sequence_number": 5909
     },

@@ -9,7 +9,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "The Most Gracious",
-        "root_word": "ٱلرَّحۡمَٰنُ",
+        "root_word": "الرَّحۡمَٰنُ",
         "global_word_sequence_number": 68539,
         "global_verse_sequence_number": 4902
     },
@@ -37,7 +37,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the Quran",
-        "root_word": "ٱلۡقُرۡءَانَ",
+        "root_word": "الۡقُرۡءَانَ",
         "global_word_sequence_number": 68541,
         "global_verse_sequence_number": 4903
     },
@@ -65,7 +65,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "[the] man",
-        "root_word": "ٱلۡإِنسَٰنَ",
+        "root_word": "الۡإِنسَٰنَ",
         "global_word_sequence_number": 68543,
         "global_verse_sequence_number": 4904
     },
@@ -93,7 +93,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "[the] speech",
-        "root_word": "ٱلۡبَيَانَ",
+        "root_word": "الۡبَيَانَ",
         "global_word_sequence_number": 68545,
         "global_verse_sequence_number": 4905
     },
@@ -107,7 +107,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "The sun",
-        "root_word": "ٱلشَّمۡسُ",
+        "root_word": "الشَّمۡسُ",
         "global_word_sequence_number": 68546,
         "global_verse_sequence_number": 4906
     },
@@ -121,7 +121,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "and the moon",
-        "root_word": "وَٱلۡقَمَرُ",
+        "root_word": "وَالۡقَمَرُ",
         "global_word_sequence_number": 68547,
         "global_verse_sequence_number": 4906
     },
@@ -149,7 +149,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "And the stars",
-        "root_word": "وَٱلنَّجۡمُ",
+        "root_word": "وَالنَّجۡمُ",
         "global_word_sequence_number": 68549,
         "global_verse_sequence_number": 4907
     },
@@ -163,7 +163,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "and the trees",
-        "root_word": "وَٱلشَّجَرُ",
+        "root_word": "وَالشَّجَرُ",
         "global_word_sequence_number": 68550,
         "global_verse_sequence_number": 4907
     },
@@ -191,7 +191,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "And the heaven",
-        "root_word": "وَٱلسَّمَآءَ",
+        "root_word": "وَالسَّمَآءَ",
         "global_word_sequence_number": 68552,
         "global_verse_sequence_number": 4908
     },
@@ -233,7 +233,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the balance",
-        "root_word": "ٱلۡمِيزَانَ",
+        "root_word": "الۡمِيزَانَ",
         "global_word_sequence_number": 68555,
         "global_verse_sequence_number": 4908
     },
@@ -289,7 +289,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the balance",
-        "root_word": "ٱلۡمِيزَانِ",
+        "root_word": "الۡمِيزَانِ",
         "global_word_sequence_number": 68559,
         "global_verse_sequence_number": 4909
     },
@@ -317,7 +317,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the weight",
-        "root_word": "ٱلۡوَزۡنَ",
+        "root_word": "الۡوَزۡنَ",
         "global_word_sequence_number": 68561,
         "global_verse_sequence_number": 4910
     },
@@ -331,7 +331,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "in justice",
-        "root_word": "بِٱلۡقِسۡطِ",
+        "root_word": "بِالۡقِسۡطِ",
         "global_word_sequence_number": 68562,
         "global_verse_sequence_number": 4910
     },
@@ -373,7 +373,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "the balance",
-        "root_word": "ٱلۡمِيزَانَ",
+        "root_word": "الۡمِيزَانَ",
         "global_word_sequence_number": 68565,
         "global_verse_sequence_number": 4910
     },
@@ -387,7 +387,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "And the earth",
-        "root_word": "وَٱلۡأَرۡضَ",
+        "root_word": "وَالۡأَرۡضَ",
         "global_word_sequence_number": 68566,
         "global_verse_sequence_number": 4911
     },
@@ -457,7 +457,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "and date-palms",
-        "root_word": "وَٱلنَّخۡلُ",
+        "root_word": "وَالنَّخۡلُ",
         "global_word_sequence_number": 68571,
         "global_verse_sequence_number": 4912
     },
@@ -485,7 +485,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "sheaths",
-        "root_word": "ٱلۡأَكۡمَامِ",
+        "root_word": "الۡأَكۡمَامِ",
         "global_word_sequence_number": 68573,
         "global_verse_sequence_number": 4912
     },
@@ -499,7 +499,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "And the grain",
-        "root_word": "وَٱلۡحَبُّ",
+        "root_word": "وَالۡحَبُّ",
         "global_word_sequence_number": 68574,
         "global_verse_sequence_number": 4913
     },
@@ -527,7 +527,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "husk",
-        "root_word": "ٱلۡعَصۡفِ",
+        "root_word": "الۡعَصۡفِ",
         "global_word_sequence_number": 68576,
         "global_verse_sequence_number": 4913
     },
@@ -541,7 +541,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "and scented plants",
-        "root_word": "وَٱلرَّيۡحَانُ",
+        "root_word": "وَالرَّيۡحَانُ",
         "global_word_sequence_number": 68577,
         "global_verse_sequence_number": 4913
     },
@@ -625,7 +625,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the man",
-        "root_word": "ٱلۡإِنسَٰنَ",
+        "root_word": "الۡإِنسَٰنَ",
         "global_word_sequence_number": 68583,
         "global_verse_sequence_number": 4915
     },
@@ -667,7 +667,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "like the pottery",
-        "root_word": "كَٱلۡفَخَّارِ",
+        "root_word": "كَالۡفَخَّارِ",
         "global_word_sequence_number": 68586,
         "global_verse_sequence_number": 4915
     },
@@ -695,7 +695,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the jinn",
-        "root_word": "ٱلۡجَآنَّ",
+        "root_word": "الۡجَآنَّ",
         "global_word_sequence_number": 68588,
         "global_verse_sequence_number": 4916
     },
@@ -835,7 +835,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(of) the two Easts",
-        "root_word": "ٱلۡمَشۡرِقَيۡنِ",
+        "root_word": "الۡمَشۡرِقَيۡنِ",
         "global_word_sequence_number": 68598,
         "global_verse_sequence_number": 4918
     },
@@ -863,7 +863,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "(of) the two Wests",
-        "root_word": "ٱلۡمَغۡرِبَيۡنِ",
+        "root_word": "الۡمَغۡرِبَيۡنِ",
         "global_word_sequence_number": 68600,
         "global_verse_sequence_number": 4918
     },
@@ -947,7 +947,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the two seas",
-        "root_word": "ٱلۡبَحۡرَيۡنِ",
+        "root_word": "الۡبَحۡرَيۡنِ",
         "global_word_sequence_number": 68606,
         "global_verse_sequence_number": 4920
     },
@@ -1115,7 +1115,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the pearl",
-        "root_word": "ٱللُّؤۡلُؤُ",
+        "root_word": "اللُّؤۡلُؤُ",
         "global_word_sequence_number": 68618,
         "global_verse_sequence_number": 4923
     },
@@ -1129,7 +1129,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "and the coral",
-        "root_word": "وَٱلۡمَرۡجَانُ",
+        "root_word": "وَالۡمَرۡجَانُ",
         "global_word_sequence_number": 68619,
         "global_verse_sequence_number": 4923
     },
@@ -1213,7 +1213,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(are) the ships",
-        "root_word": "ٱلۡجَوَارِ",
+        "root_word": "الۡجَوَارِ",
         "global_word_sequence_number": 68625,
         "global_verse_sequence_number": 4925
     },
@@ -1227,7 +1227,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "elevated",
-        "root_word": "ٱلۡمُنشَـَٔاتُ",
+        "root_word": "الۡمُنشَـَٔاتُ",
         "global_word_sequence_number": 68626,
         "global_verse_sequence_number": 4925
     },
@@ -1255,7 +1255,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "the sea",
-        "root_word": "ٱلۡبَحۡرِ",
+        "root_word": "الۡبَحۡرِ",
         "global_word_sequence_number": 68628,
         "global_verse_sequence_number": 4925
     },
@@ -1269,7 +1269,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "like mountains",
-        "root_word": "كَٱلۡأَعۡلَٰمِ",
+        "root_word": "كَالۡأَعۡلَٰمِ",
         "global_word_sequence_number": 68629,
         "global_verse_sequence_number": 4925
     },
@@ -1451,7 +1451,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "(of) Majesty",
-        "root_word": "ٱلۡجَلَٰلِ",
+        "root_word": "الۡجَلَٰلِ",
         "global_word_sequence_number": 68642,
         "global_verse_sequence_number": 4928
     },
@@ -1465,7 +1465,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "and Honor",
-        "root_word": "وَٱلۡإِكۡرَامِ",
+        "root_word": "وَالۡإِكۡرَامِ",
         "global_word_sequence_number": 68643,
         "global_verse_sequence_number": 4928
     },
@@ -1577,7 +1577,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the heavens",
-        "root_word": "ٱلسَّمَٰوَٰتِ",
+        "root_word": "السَّمَٰوَٰتِ",
         "global_word_sequence_number": 68651,
         "global_verse_sequence_number": 4930
     },
@@ -1591,7 +1591,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "and the earth",
-        "root_word": "وَٱلۡأَرۡضِۚ",
+        "root_word": "وَالۡأَرۡضِۚ",
         "global_word_sequence_number": 68652,
         "global_verse_sequence_number": 4930
     },
@@ -1773,7 +1773,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "two classes",
-        "root_word": "ٱلثَّقَلَانِ",
+        "root_word": "الثَّقَلَانِ",
         "global_word_sequence_number": 68665,
         "global_verse_sequence_number": 4932
     },
@@ -1857,7 +1857,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(of) the jinn",
-        "root_word": "ٱلۡجِنِّ",
+        "root_word": "الۡجِنِّ",
         "global_word_sequence_number": 68671,
         "global_verse_sequence_number": 4934
     },
@@ -1871,7 +1871,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "and the men",
-        "root_word": "وَٱلۡإِنسِ",
+        "root_word": "وَالۡإِنسِ",
         "global_word_sequence_number": 68672,
         "global_verse_sequence_number": 4934
     },
@@ -1899,7 +1899,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "you are able",
-        "root_word": "ٱسۡتَطَعۡتُمۡ",
+        "root_word": "اسۡتَطَعۡتُمۡ",
         "global_word_sequence_number": 68674,
         "global_verse_sequence_number": 4934
     },
@@ -1969,7 +1969,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "(of) the heavens",
-        "root_word": "ٱلسَّمَٰوَٰتِ",
+        "root_word": "السَّمَٰوَٰتِ",
         "global_word_sequence_number": 68679,
         "global_verse_sequence_number": 4934
     },
@@ -1983,7 +1983,7 @@
         "word_number_in_verse": 11,
         "language_code": "en",
         "text": "and the earth",
-        "root_word": "وَٱلۡأَرۡضِ",
+        "root_word": "وَالۡأَرۡضِ",
         "global_word_sequence_number": 68680,
         "global_verse_sequence_number": 4934
     },
@@ -1997,7 +1997,7 @@
         "word_number_in_verse": 12,
         "language_code": "en",
         "text": "then pass",
-        "root_word": "فَٱنفُذُواْۚ",
+        "root_word": "فَانفُذُواْۚ",
         "global_word_sequence_number": 68681,
         "global_verse_sequence_number": 4934
     },
@@ -2305,7 +2305,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "is split",
-        "root_word": "ٱنشَقَّتِ",
+        "root_word": "انشَقَّتِ",
         "global_word_sequence_number": 68703,
         "global_verse_sequence_number": 4938
     },
@@ -2319,7 +2319,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the heaven",
-        "root_word": "ٱلسَّمَآءُ",
+        "root_word": "السَّمَآءُ",
         "global_word_sequence_number": 68704,
         "global_verse_sequence_number": 4938
     },
@@ -2361,7 +2361,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "like murky oil",
-        "root_word": "كَٱلدِّهَانِ",
+        "root_word": "كَالدِّهَانِ",
         "global_word_sequence_number": 68707,
         "global_verse_sequence_number": 4938
     },
@@ -2613,7 +2613,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the criminals",
-        "root_word": "ٱلۡمُجۡرِمُونَ",
+        "root_word": "الۡمُجۡرِمُونَ",
         "global_word_sequence_number": 68725,
         "global_verse_sequence_number": 4942
     },
@@ -2655,7 +2655,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "by the forelocks",
-        "root_word": "بِٱلنَّوَٰصِي",
+        "root_word": "بِالنَّوَٰصِي",
         "global_word_sequence_number": 68728,
         "global_verse_sequence_number": 4942
     },
@@ -2669,7 +2669,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "and the feet",
-        "root_word": "وَٱلۡأَقۡدَامِ",
+        "root_word": "وَالۡأَقۡدَامِ",
         "global_word_sequence_number": 68729,
         "global_verse_sequence_number": 4942
     },
@@ -2767,7 +2767,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "which",
-        "root_word": "ٱلَّتِي",
+        "root_word": "الَّتِي",
         "global_word_sequence_number": 68736,
         "global_verse_sequence_number": 4944
     },
@@ -2809,7 +2809,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "the criminals",
-        "root_word": "ٱلۡمُجۡرِمُونَ",
+        "root_word": "الۡمُجۡرِمُونَ",
         "global_word_sequence_number": 68739,
         "global_verse_sequence_number": 4944
     },
@@ -3481,7 +3481,7 @@
         "word_number_in_verse": 8,
         "language_code": "en",
         "text": "(of) both the gardens",
-        "root_word": "ٱلۡجَنَّتَيۡنِ",
+        "root_word": "الۡجَنَّتَيۡنِ",
         "global_word_sequence_number": 68787,
         "global_verse_sequence_number": 4955
     },
@@ -3593,7 +3593,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "(will be) companions of modest gaze",
-        "root_word": "ٱلطَّرۡفِ",
+        "root_word": "الطَّرۡفِ",
         "global_word_sequence_number": 68795,
         "global_verse_sequence_number": 4957
     },
@@ -3761,7 +3761,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "rubies",
-        "root_word": "ٱلۡيَاقُوتُ",
+        "root_word": "الۡيَاقُوتُ",
         "global_word_sequence_number": 68807,
         "global_verse_sequence_number": 4959
     },
@@ -3775,7 +3775,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "and coral",
-        "root_word": "وَٱلۡمَرۡجَانُ",
+        "root_word": "وَالۡمَرۡجَانُ",
         "global_word_sequence_number": 68808,
         "global_verse_sequence_number": 4959
     },
@@ -3873,7 +3873,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "for the good",
-        "root_word": "ٱلۡإِحۡسَٰنِ",
+        "root_word": "الۡإِحۡسَٰنِ",
         "global_word_sequence_number": 68815,
         "global_verse_sequence_number": 4961
     },
@@ -3901,7 +3901,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "good",
-        "root_word": "ٱلۡإِحۡسَٰنُ",
+        "root_word": "الۡإِحۡسَٰنُ",
         "global_word_sequence_number": 68817,
         "global_verse_sequence_number": 4961
     },
@@ -4489,7 +4489,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the pavilions",
-        "root_word": "ٱلۡخِيَامِ",
+        "root_word": "الۡخِيَامِ",
         "global_word_sequence_number": 68859,
         "global_verse_sequence_number": 4973
     },
@@ -4853,7 +4853,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(the) name",
-        "root_word": "ٱسۡمُ",
+        "root_word": "اسۡمُ",
         "global_word_sequence_number": 68885,
         "global_verse_sequence_number": 4979
     },
@@ -4895,7 +4895,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "(of) Majesty",
-        "root_word": "ٱلۡجَلَٰلِ",
+        "root_word": "الۡجَلَٰلِ",
         "global_word_sequence_number": 68888,
         "global_verse_sequence_number": 4979
     },
@@ -4909,7 +4909,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "and Honor",
-        "root_word": "وَٱلۡإِكۡرَامِ",
+        "root_word": "وَالۡإِكۡرَامِ",
         "global_word_sequence_number": 68889,
         "global_verse_sequence_number": 4979
     }

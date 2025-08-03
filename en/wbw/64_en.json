@@ -65,7 +65,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "the heavens",
-        "root_word": "ٱلسَّمَٰوَٰتِ",
+        "root_word": "السَّمَٰوَٰتِ",
         "global_word_sequence_number": 71688,
         "global_verse_sequence_number": 5200
     },
@@ -107,7 +107,7 @@
         "word_number_in_verse": 8,
         "language_code": "en",
         "text": "the earth",
-        "root_word": "ٱلۡأَرۡضِۖ",
+        "root_word": "الۡأَرۡضِۖ",
         "global_word_sequence_number": 71691,
         "global_verse_sequence_number": 5200
     },
@@ -135,7 +135,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "(is the) dominion",
-        "root_word": "ٱلۡمُلۡكُ",
+        "root_word": "الۡمُلۡكُ",
         "global_word_sequence_number": 71693,
         "global_verse_sequence_number": 5200
     },
@@ -163,7 +163,7 @@
         "word_number_in_verse": 12,
         "language_code": "en",
         "text": "(is) the praise",
-        "root_word": "ٱلۡحَمۡدُۖ",
+        "root_word": "الۡحَمۡدُۖ",
         "global_word_sequence_number": 71695,
         "global_verse_sequence_number": 5200
     },
@@ -261,7 +261,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(is) the One Who",
-        "root_word": "ٱلَّذِي",
+        "root_word": "الَّذِي",
         "global_word_sequence_number": 71702,
         "global_verse_sequence_number": 5201
     },
@@ -345,7 +345,7 @@
         "word_number_in_verse": 8,
         "language_code": "en",
         "text": "And Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71708,
         "global_verse_sequence_number": 5201
     },
@@ -415,7 +415,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the heavens",
-        "root_word": "ٱلسَّمَٰوَٰتِ",
+        "root_word": "السَّمَٰوَٰتِ",
         "global_word_sequence_number": 71713,
         "global_verse_sequence_number": 5202
     },
@@ -429,7 +429,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "and the earth",
-        "root_word": "وَٱلۡأَرۡضَ",
+        "root_word": "وَالۡأَرۡضَ",
         "global_word_sequence_number": 71714,
         "global_verse_sequence_number": 5202
     },
@@ -443,7 +443,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "with truth",
-        "root_word": "بِٱلۡحَقِّ",
+        "root_word": "بِالۡحَقِّ",
         "global_word_sequence_number": 71715,
         "global_verse_sequence_number": 5202
     },
@@ -513,7 +513,7 @@
         "word_number_in_verse": 9,
         "language_code": "en",
         "text": "(is) the final return",
-        "root_word": "ٱلۡمَصِيرُ",
+        "root_word": "الۡمَصِيرُ",
         "global_word_sequence_number": 71720,
         "global_verse_sequence_number": 5202
     },
@@ -569,7 +569,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the heavens",
-        "root_word": "ٱلسَّمَٰوَٰتِ",
+        "root_word": "السَّمَٰوَٰتِ",
         "global_word_sequence_number": 71724,
         "global_verse_sequence_number": 5203
     },
@@ -583,7 +583,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "and the earth",
-        "root_word": "وَٱلۡأَرۡضِ",
+        "root_word": "وَالۡأَرۡضِ",
         "global_word_sequence_number": 71725,
         "global_verse_sequence_number": 5203
     },
@@ -667,7 +667,7 @@
         "word_number_in_verse": 11,
         "language_code": "en",
         "text": "And Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71731,
         "global_verse_sequence_number": 5203
     },
@@ -709,7 +709,7 @@
         "word_number_in_verse": 14,
         "language_code": "en",
         "text": "(is in) the breasts",
-        "root_word": "ٱلصُّدُورِ",
+        "root_word": "الصُّدُورِ",
         "global_word_sequence_number": 71734,
         "global_verse_sequence_number": 5203
     },
@@ -765,7 +765,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "(of) those who",
-        "root_word": "ٱلَّذِينَ",
+        "root_word": "الَّذِينَ",
         "global_word_sequence_number": 71738,
         "global_verse_sequence_number": 5204
     },
@@ -975,7 +975,7 @@
         "word_number_in_verse": 6,
         "language_code": "en",
         "text": "with clear proofs",
-        "root_word": "بِٱلۡبَيِّنَٰتِ",
+        "root_word": "بِالۡبَيِّنَٰتِ",
         "global_word_sequence_number": 71753,
         "global_verse_sequence_number": 5205
     },
@@ -1059,7 +1059,7 @@
         "word_number_in_verse": 12,
         "language_code": "en",
         "text": "And can do without them",
-        "root_word": "وَّٱسۡتَغۡنَى",
+        "root_word": "وَّاسۡتَغۡنَى",
         "global_word_sequence_number": 71759,
         "global_verse_sequence_number": 5205
     },
@@ -1073,7 +1073,7 @@
         "word_number_in_verse": 13,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهُۚ",
+        "root_word": "اللَّهُۚ",
         "global_word_sequence_number": 71760,
         "global_verse_sequence_number": 5205
     },
@@ -1087,7 +1087,7 @@
         "word_number_in_verse": 14,
         "language_code": "en",
         "text": "And Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71761,
         "global_verse_sequence_number": 5205
     },
@@ -1143,7 +1143,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "those who",
-        "root_word": "ٱلَّذِينَ",
+        "root_word": "الَّذِينَ",
         "global_word_sequence_number": 71765,
         "global_verse_sequence_number": 5206
     },
@@ -1353,7 +1353,7 @@
         "word_number_in_verse": 17,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهِ",
+        "root_word": "اللَّهِ",
         "global_word_sequence_number": 71780,
         "global_verse_sequence_number": 5206
     },
@@ -1395,7 +1395,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "in Allah",
-        "root_word": "بِٱللَّهِ",
+        "root_word": "بِاللَّهِ",
         "global_word_sequence_number": 71783,
         "global_verse_sequence_number": 5207
     },
@@ -1423,7 +1423,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "and the Light",
-        "root_word": "وَٱلنُّورِ",
+        "root_word": "وَالنُّورِ",
         "global_word_sequence_number": 71785,
         "global_verse_sequence_number": 5207
     },
@@ -1437,7 +1437,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "which",
-        "root_word": "ٱلَّذِيٓ",
+        "root_word": "الَّذِيٓ",
         "global_word_sequence_number": 71786,
         "global_verse_sequence_number": 5207
     },
@@ -1465,7 +1465,7 @@
         "word_number_in_verse": 7,
         "language_code": "en",
         "text": "And Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71788,
         "global_verse_sequence_number": 5207
     },
@@ -1563,7 +1563,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "(of) the Assembly",
-        "root_word": "ٱلۡجَمۡعِۖ",
+        "root_word": "الۡجَمۡعِۖ",
         "global_word_sequence_number": 71795,
         "global_verse_sequence_number": 5208
     },
@@ -1605,7 +1605,7 @@
         "word_number_in_verse": 7,
         "language_code": "en",
         "text": "(of) mutual loss and gain",
-        "root_word": "ٱلتَّغَابُنِۗ",
+        "root_word": "التَّغَابُنِۗ",
         "global_word_sequence_number": 71798,
         "global_verse_sequence_number": 5208
     },
@@ -1647,7 +1647,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "in Allah",
-        "root_word": "بِٱللَّهِ",
+        "root_word": "بِاللَّهِ",
         "global_word_sequence_number": 71801,
         "global_verse_sequence_number": 5208
     },
@@ -1801,7 +1801,7 @@
         "word_number_in_verse": 21,
         "language_code": "en",
         "text": "the rivers",
-        "root_word": "ٱلۡأَنۡهَٰرُ",
+        "root_word": "الۡأَنۡهَٰرُ",
         "global_word_sequence_number": 71812,
         "global_verse_sequence_number": 5208
     },
@@ -1871,7 +1871,7 @@
         "word_number_in_verse": 26,
         "language_code": "en",
         "text": "(is) the success",
-        "root_word": "ٱلۡفَوۡزُ",
+        "root_word": "الۡفَوۡزُ",
         "global_word_sequence_number": 71817,
         "global_verse_sequence_number": 5208
     },
@@ -1885,7 +1885,7 @@
         "word_number_in_verse": 27,
         "language_code": "en",
         "text": "the great",
-        "root_word": "ٱلۡعَظِيمُ",
+        "root_word": "الۡعَظِيمُ",
         "global_word_sequence_number": 71818,
         "global_verse_sequence_number": 5208
     },
@@ -1899,7 +1899,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "But those who",
-        "root_word": "وَٱلَّذِينَ",
+        "root_word": "وَالَّذِينَ",
         "global_word_sequence_number": 71819,
         "global_verse_sequence_number": 5209
     },
@@ -1983,7 +1983,7 @@
         "word_number_in_verse": 7,
         "language_code": "en",
         "text": "(of) the Fire",
-        "root_word": "ٱلنَّارِ",
+        "root_word": "النَّارِ",
         "global_word_sequence_number": 71825,
         "global_verse_sequence_number": 5209
     },
@@ -2039,7 +2039,7 @@
         "word_number_in_verse": 11,
         "language_code": "en",
         "text": "the destination",
-        "root_word": "ٱلۡمَصِيرُ",
+        "root_word": "الۡمَصِيرُ",
         "global_word_sequence_number": 71829,
         "global_verse_sequence_number": 5209
     },
@@ -2137,7 +2137,7 @@
         "word_number_in_verse": 7,
         "language_code": "en",
         "text": "(of) Allah",
-        "root_word": "ٱللَّهِۗ",
+        "root_word": "اللَّهِۗ",
         "global_word_sequence_number": 71836,
         "global_verse_sequence_number": 5210
     },
@@ -2179,7 +2179,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "in Allah",
-        "root_word": "بِٱللَّهِ",
+        "root_word": "بِاللَّهِ",
         "global_word_sequence_number": 71839,
         "global_verse_sequence_number": 5210
     },
@@ -2221,7 +2221,7 @@
         "word_number_in_verse": 13,
         "language_code": "en",
         "text": "And Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71842,
         "global_verse_sequence_number": 5210
     },
@@ -2291,7 +2291,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهَ",
+        "root_word": "اللَّهَ",
         "global_word_sequence_number": 71847,
         "global_verse_sequence_number": 5211
     },
@@ -2319,7 +2319,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the Messenger",
-        "root_word": "ٱلرَّسُولَۚ",
+        "root_word": "الرَّسُولَۚ",
         "global_word_sequence_number": 71849,
         "global_verse_sequence_number": 5211
     },
@@ -2403,7 +2403,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "(is) the conveyance",
-        "root_word": "ٱلۡبَلَٰغُ",
+        "root_word": "الۡبَلَٰغُ",
         "global_word_sequence_number": 71855,
         "global_verse_sequence_number": 5211
     },
@@ -2417,7 +2417,7 @@
         "word_number_in_verse": 11,
         "language_code": "en",
         "text": "clear",
-        "root_word": "ٱلۡمُبِينُ",
+        "root_word": "الۡمُبِينُ",
         "global_word_sequence_number": 71856,
         "global_verse_sequence_number": 5211
     },
@@ -2431,7 +2431,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهُ",
+        "root_word": "اللَّهُ",
         "global_word_sequence_number": 71857,
         "global_verse_sequence_number": 5212
     },
@@ -2515,7 +2515,7 @@
         "word_number_in_verse": 7,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهِ",
+        "root_word": "اللَّهِ",
         "global_word_sequence_number": 71863,
         "global_verse_sequence_number": 5212
     },
@@ -2543,7 +2543,7 @@
         "word_number_in_verse": 9,
         "language_code": "en",
         "text": "the believers",
-        "root_word": "ٱلۡمُؤۡمِنُونَ",
+        "root_word": "الۡمُؤۡمِنُونَ",
         "global_word_sequence_number": 71865,
         "global_verse_sequence_number": 5212
     },
@@ -2571,7 +2571,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(you) who",
-        "root_word": "ٱلَّذِينَ",
+        "root_word": "الَّذِينَ",
         "global_word_sequence_number": 71867,
         "global_verse_sequence_number": 5213
     },
@@ -2683,7 +2683,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "so beware of them",
-        "root_word": "فَٱحۡذَرُوهُمۡۚ",
+        "root_word": "فَاحۡذَرُوهُمۡۚ",
         "global_word_sequence_number": 71875,
         "global_verse_sequence_number": 5213
     },
@@ -2767,7 +2767,7 @@
         "word_number_in_verse": 16,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهَ",
+        "root_word": "اللَّهَ",
         "global_word_sequence_number": 71881,
         "global_verse_sequence_number": 5213
     },
@@ -2865,7 +2865,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "and Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71888,
         "global_verse_sequence_number": 5214
     },
@@ -2921,7 +2921,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "So fear",
-        "root_word": "فَٱتَّقُواْ",
+        "root_word": "فَاتَّقُواْ",
         "global_word_sequence_number": 71892,
         "global_verse_sequence_number": 5215
     },
@@ -2935,7 +2935,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهَ",
+        "root_word": "اللَّهَ",
         "global_word_sequence_number": 71893,
         "global_verse_sequence_number": 5215
     },
@@ -2963,7 +2963,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "you are able",
-        "root_word": "ٱسۡتَطَعۡتُمۡ",
+        "root_word": "اسۡتَطَعۡتُمۡ",
         "global_word_sequence_number": 71895,
         "global_verse_sequence_number": 5215
     },
@@ -2977,7 +2977,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "and listen",
-        "root_word": "وَٱسۡمَعُواْ",
+        "root_word": "وَاسۡمَعُواْ",
         "global_word_sequence_number": 71896,
         "global_verse_sequence_number": 5215
     },
@@ -3131,7 +3131,7 @@
         "word_number_in_verse": 16,
         "language_code": "en",
         "text": "(are) the successful ones",
-        "root_word": "ٱلۡمُفۡلِحُونَ",
+        "root_word": "الۡمُفۡلِحُونَ",
         "global_word_sequence_number": 71907,
         "global_verse_sequence_number": 5215
     },
@@ -3173,7 +3173,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "(to) Allah",
-        "root_word": "ٱللَّهَ",
+        "root_word": "اللَّهَ",
         "global_word_sequence_number": 71910,
         "global_verse_sequence_number": 5216
     },
@@ -3271,7 +3271,7 @@
         "word_number_in_verse": 10,
         "language_code": "en",
         "text": "And Allah",
-        "root_word": "وَٱللَّهُ",
+        "root_word": "وَاللَّهُ",
         "global_word_sequence_number": 71917,
         "global_verse_sequence_number": 5216
     },
@@ -3327,7 +3327,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "(of) the unseen",
-        "root_word": "ٱلۡغَيۡبِ",
+        "root_word": "الۡغَيۡبِ",
         "global_word_sequence_number": 71921,
         "global_verse_sequence_number": 5217
     },
@@ -3341,7 +3341,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "and the witnessed",
-        "root_word": "وَٱلشَّهَٰدَةِ",
+        "root_word": "وَالشَّهَٰدَةِ",
         "global_word_sequence_number": 71922,
         "global_verse_sequence_number": 5217
     },
@@ -3355,7 +3355,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the All-Mighty",
-        "root_word": "ٱلۡعَزِيزُ",
+        "root_word": "الۡعَزِيزُ",
         "global_word_sequence_number": 71923,
         "global_verse_sequence_number": 5217
     },
@@ -3369,7 +3369,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "the All-Wise",
-        "root_word": "ٱلۡحَكِيمُ",
+        "root_word": "الۡحَكِيمُ",
         "global_word_sequence_number": 71924,
         "global_verse_sequence_number": 5217
     }

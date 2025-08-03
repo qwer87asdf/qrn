@@ -55,7 +55,6 @@
   { "name": "বেসিম করকুট - অনুবাদ সহ", "short_code": "BKORKUT", "audio_url": "https://everyayah.com/data/translations/besim_korkut_ajet_po_ajet/" },
   { "name": "ফারহাত হাশমি - উর্দু অনুবাদ সহ", "short_code": "FHASHMI", "audio_url": "https://everyayah.com/data/translations/urdu_farhat_hashmi/" },
   { "name": "শামশাদ আলি খান - উর্দু অনুবাদ সহ", "short_code": "SAKHAN", "audio_url": "https://everyayah.com/data/translations/urdu_shamshad_ali_khan_46kbps/" },
-  { "name": "আবদুল বাসিত - ওয়ারশ", "short_code": "ABWARSH", "audio_url": "https://everyayah.com/data/warsh/warsh_Abdul_Basit_128kbps/" },
   { "name": "ইব্রাহিম আল দোসারি - ওয়ারশ", "short_code": "IALDOSWAR", "audio_url": "https://everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/" },
   { "name": "ইয়াসিন আল জাজাইরি - ওয়ারশ", "short_code": "YJAZWAR", "audio_url": "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/" }
 ]
