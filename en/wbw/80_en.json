@@ -65,7 +65,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the blind man",
-        "root_word": "ٱلۡأَعۡمَىٰ",
+        "root_word": "الۡأَعۡمَىٰ",
         "global_word_sequence_number": 75478,
         "global_verse_sequence_number": 5760
     },
@@ -177,7 +177,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the reminder",
-        "root_word": "ٱلذِّكۡرَىٰٓ",
+        "root_word": "الذِّكۡرَىٰٓ",
         "global_word_sequence_number": 75486,
         "global_verse_sequence_number": 5762
     },
@@ -219,7 +219,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "considers himself free from need",
-        "root_word": "ٱسۡتَغۡنَىٰ",
+        "root_word": "اسۡتَغۡنَىٰ",
         "global_word_sequence_number": 75489,
         "global_verse_sequence_number": 5763
     },
@@ -681,7 +681,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "[the] man",
-        "root_word": "ٱلۡإِنسَٰنُ",
+        "root_word": "الۡإِنسَٰنُ",
         "global_word_sequence_number": 75522,
         "global_verse_sequence_number": 5775
     },
@@ -849,7 +849,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the way",
-        "root_word": "ٱلسَّبِيلَ",
+        "root_word": "السَّبِيلَ",
         "global_word_sequence_number": 75534,
         "global_verse_sequence_number": 5778
     },
@@ -1059,7 +1059,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "the man",
-        "root_word": "ٱلۡإِنسَٰنُ",
+        "root_word": "الۡإِنسَٰنُ",
         "global_word_sequence_number": 75549,
         "global_verse_sequence_number": 5782
     },
@@ -1129,7 +1129,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the water",
-        "root_word": "ٱلۡمَآءَ",
+        "root_word": "الۡمَآءَ",
         "global_word_sequence_number": 75554,
         "global_verse_sequence_number": 5783
     },
@@ -1185,7 +1185,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the earth",
-        "root_word": "ٱلۡأَرۡضَ",
+        "root_word": "الۡأَرۡضَ",
         "global_word_sequence_number": 75558,
         "global_verse_sequence_number": 5784
     },
@@ -1437,7 +1437,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "the Deafening Blast",
-        "root_word": "ٱلصَّآخَّةُ",
+        "root_word": "الصَّآخَّةُ",
         "global_word_sequence_number": 75576,
         "global_verse_sequence_number": 5791
     },
@@ -1479,7 +1479,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "a man",
-        "root_word": "ٱلۡمَرۡءُ",
+        "root_word": "الۡمَرۡءُ",
         "global_word_sequence_number": 75579,
         "global_verse_sequence_number": 5792
     },
@@ -1591,7 +1591,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "man",
-        "root_word": "ٱمۡرِيٕٖ",
+        "root_word": "امۡرِيٕٖ",
         "global_word_sequence_number": 75587,
         "global_verse_sequence_number": 5795
     },
@@ -1843,7 +1843,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "(are) the disbelievers",
-        "root_word": "ٱلۡكَفَرَةُ",
+        "root_word": "الۡكَفَرَةُ",
         "global_word_sequence_number": 75605,
         "global_verse_sequence_number": 5800
     },
@@ -1857,7 +1857,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the wicked ones",
-        "root_word": "ٱلۡفَجَرَةُ",
+        "root_word": "الۡفَجَرَةُ",
         "global_word_sequence_number": 75606,
         "global_verse_sequence_number": 5800
     }

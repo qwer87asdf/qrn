@@ -9,7 +9,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ সূর্যের",
-        "root_word": "وَٱلشَّمۡسِ",
+        "root_word": "وَالشَّمۡسِ",
         "global_word_sequence_number": 76620,
         "global_verse_sequence_number": 6044
     },
@@ -37,7 +37,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ চাঁদের",
-        "root_word": "وَٱلۡقَمَرِ",
+        "root_word": "وَالۡقَمَرِ",
         "global_word_sequence_number": 76622,
         "global_verse_sequence_number": 6045
     },
@@ -79,7 +79,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ দিনের",
-        "root_word": "وَٱلنَّهَارِ",
+        "root_word": "وَالنَّهَارِ",
         "global_word_sequence_number": 76625,
         "global_verse_sequence_number": 6046
     },
@@ -121,7 +121,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ রাতের",
-        "root_word": "وَٱلَّيۡلِ",
+        "root_word": "وَالَّيۡلِ",
         "global_word_sequence_number": 76628,
         "global_verse_sequence_number": 6047
     },
@@ -163,7 +163,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ আকাশের",
-        "root_word": "وَٱلسَّمَآءِ",
+        "root_word": "وَالسَّمَآءِ",
         "global_word_sequence_number": 76631,
         "global_verse_sequence_number": 6048
     },
@@ -205,7 +205,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ পৃথিবীর",
-        "root_word": "وَٱلۡأَرۡضِ",
+        "root_word": "وَالۡأَرۡضِ",
         "global_word_sequence_number": 76634,
         "global_verse_sequence_number": 6049
     },
@@ -499,7 +499,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "(তৎপর হয়ে)উঠলো",
-        "root_word": "ٱنۢبَعَثَ",
+        "root_word": "انۢبَعَثَ",
         "global_word_sequence_number": 76655,
         "global_verse_sequence_number": 6055
     },
@@ -569,7 +569,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "আল্লাহর",
-        "root_word": "ٱللَّهِ",
+        "root_word": "اللَّهِ",
         "global_word_sequence_number": 76660,
         "global_verse_sequence_number": 6056
     },
@@ -597,7 +597,7 @@
         "word_number_in_verse": 6,
         "language_code": "bn",
         "text": "আল্লাহর (স্পর্শ করো না)",
-        "root_word": "ٱللَّهِ",
+        "root_word": "اللَّهِ",
         "global_word_sequence_number": 76662,
         "global_verse_sequence_number": 6056
     },

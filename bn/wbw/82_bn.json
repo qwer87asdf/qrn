@@ -23,7 +23,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "আকাশ",
-        "root_word": "ٱلسَّمَآءُ",
+        "root_word": "السَّمَآءُ",
         "global_word_sequence_number": 75712,
         "global_verse_sequence_number": 5830
     },
@@ -37,7 +37,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "ফেটে যাবে",
-        "root_word": "ٱنفَطَرَتۡ",
+        "root_word": "انفَطَرَتۡ",
         "global_word_sequence_number": 75713,
         "global_verse_sequence_number": 5830
     },
@@ -65,7 +65,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "তারাগুলো",
-        "root_word": "ٱلۡكَوَاكِبُ",
+        "root_word": "الۡكَوَاكِبُ",
         "global_word_sequence_number": 75715,
         "global_verse_sequence_number": 5831
     },
@@ -79,7 +79,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "বিক্ষিপ্ত হবে",
-        "root_word": "ٱنتَثَرَتۡ",
+        "root_word": "انتَثَرَتۡ",
         "global_word_sequence_number": 75716,
         "global_verse_sequence_number": 5831
     },
@@ -107,7 +107,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "সাগরগুলো",
-        "root_word": "ٱلۡبِحَارُ",
+        "root_word": "الۡبِحَارُ",
         "global_word_sequence_number": 75718,
         "global_verse_sequence_number": 5832
     },
@@ -149,7 +149,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "কবরগুলো",
-        "root_word": "ٱلۡقُبُورُ",
+        "root_word": "الۡقُبُورُ",
         "global_word_sequence_number": 75721,
         "global_verse_sequence_number": 5833
     },
@@ -261,7 +261,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "মানুষ",
-        "root_word": "ٱلۡإِنسَٰنُ",
+        "root_word": "الۡإِنسَٰنُ",
         "global_word_sequence_number": 75729,
         "global_verse_sequence_number": 5835
     },
@@ -317,7 +317,7 @@
         "word_number_in_verse": 6,
         "language_code": "bn",
         "text": "মহান",
-        "root_word": "ٱلۡكَرِيمِ",
+        "root_word": "الۡكَرِيمِ",
         "global_word_sequence_number": 75733,
         "global_verse_sequence_number": 5835
     },
@@ -331,7 +331,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "যিনি",
-        "root_word": "ٱلَّذِي",
+        "root_word": "الَّذِي",
         "global_word_sequence_number": 75734,
         "global_verse_sequence_number": 5836
     },
@@ -513,7 +513,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "শেষ বিচারকে",
-        "root_word": "بِٱلدِّينِ",
+        "root_word": "بِالدِّينِ",
         "global_word_sequence_number": 75747,
         "global_verse_sequence_number": 5838
     },
@@ -653,7 +653,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "সৎ ব্যক্তিরা",
-        "root_word": "ٱلۡأَبۡرَارَ",
+        "root_word": "الۡأَبۡرَارَ",
         "global_word_sequence_number": 75757,
         "global_verse_sequence_number": 5842
     },
@@ -709,7 +709,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "পাপাচারীরা",
-        "root_word": "ٱلۡفُجَّارَ",
+        "root_word": "الۡفُجَّارَ",
         "global_word_sequence_number": 75761,
         "global_verse_sequence_number": 5843
     },
@@ -779,7 +779,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "বিচার",
-        "root_word": "ٱلدِّينِ",
+        "root_word": "الدِّينِ",
         "global_word_sequence_number": 75766,
         "global_verse_sequence_number": 5844
     },
@@ -905,7 +905,7 @@
         "word_number_in_verse": 5,
         "language_code": "bn",
         "text": "বিচারের",
-        "root_word": "ٱلدِّينِ",
+        "root_word": "الدِّينِ",
         "global_word_sequence_number": 75775,
         "global_verse_sequence_number": 5846
     },
@@ -989,7 +989,7 @@
         "word_number_in_verse": 6,
         "language_code": "bn",
         "text": "বিচারের",
-        "root_word": "ٱلدِّينِ",
+        "root_word": "الدِّينِ",
         "global_word_sequence_number": 75781,
         "global_verse_sequence_number": 5847
     },
@@ -1087,7 +1087,7 @@
         "word_number_in_verse": 7,
         "language_code": "bn",
         "text": "এবং কর্তৃত্ব",
-        "root_word": "وَٱلۡأَمۡرُ",
+        "root_word": "وَالۡأَمۡرُ",
         "global_word_sequence_number": 75788,
         "global_verse_sequence_number": 5848
     },

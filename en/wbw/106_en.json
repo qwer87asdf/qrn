@@ -65,7 +65,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "(of) winter",
-        "root_word": "ٱلشِّتَآءِ",
+        "root_word": "الشِّتَآءِ",
         "global_word_sequence_number": 77256,
         "global_verse_sequence_number": 6195
     },
@@ -79,7 +79,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "and summer",
-        "root_word": "وَٱلصَّيۡفِ",
+        "root_word": "وَالصَّيۡفِ",
         "global_word_sequence_number": 77257,
         "global_verse_sequence_number": 6195
     },
@@ -135,7 +135,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "House",
-        "root_word": "ٱلۡبَيۡتِ",
+        "root_word": "الۡبَيۡتِ",
         "global_word_sequence_number": 77261,
         "global_verse_sequence_number": 6196
     },
@@ -149,7 +149,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "The One Who",
-        "root_word": "ٱلَّذِيٓ",
+        "root_word": "الَّذِيٓ",
         "global_word_sequence_number": 77262,
         "global_verse_sequence_number": 6197
     },

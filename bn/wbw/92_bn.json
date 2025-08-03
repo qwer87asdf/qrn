@@ -9,7 +9,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ রাতের",
-        "root_word": "وَٱلَّيۡلِ",
+        "root_word": "وَالَّيۡلِ",
         "global_word_sequence_number": 76674,
         "global_verse_sequence_number": 6059
     },
@@ -51,7 +51,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "শপথ দিনের",
-        "root_word": "وَٱلنَّهَارِ",
+        "root_word": "وَالنَّهَارِ",
         "global_word_sequence_number": 76677,
         "global_verse_sequence_number": 6060
     },
@@ -121,7 +121,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "পুরুষ",
-        "root_word": "ٱلذَّكَرَ",
+        "root_word": "الذَّكَرَ",
         "global_word_sequence_number": 76682,
         "global_verse_sequence_number": 6061
     },
@@ -135,7 +135,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "ও নারী",
-        "root_word": "وَٱلۡأُنثَىٰٓ",
+        "root_word": "وَالۡأُنثَىٰٓ",
         "global_word_sequence_number": 76683,
         "global_verse_sequence_number": 6061
     },
@@ -233,7 +233,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "ও খোদাভীরু হলো",
-        "root_word": "وَٱتَّقَىٰ",
+        "root_word": "وَاتَّقَىٰ",
         "global_word_sequence_number": 76690,
         "global_verse_sequence_number": 6063
     },
@@ -261,7 +261,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "উত্তমকে (ইসলামকে)",
-        "root_word": "بِٱلۡحُسۡنَىٰ",
+        "root_word": "بِالۡحُسۡنَىٰ",
         "global_word_sequence_number": 76692,
         "global_verse_sequence_number": 6064
     },
@@ -345,7 +345,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "ও নিজেকে স্বয়ংসম্পূর্ণ মনে করলো",
-        "root_word": "وَٱسۡتَغۡنَىٰ",
+        "root_word": "وَاسۡتَغۡنَىٰ",
         "global_word_sequence_number": 76698,
         "global_verse_sequence_number": 6066
     },
@@ -373,7 +373,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "উত্তমকে (ইসলামকে)",
-        "root_word": "بِٱلۡحُسۡنَىٰ",
+        "root_word": "بِالۡحُسۡنَىٰ",
         "global_word_sequence_number": 76700,
         "global_verse_sequence_number": 6067
     },
@@ -583,7 +583,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "ও ইহকালের",
-        "root_word": "وَٱلۡأُولَىٰ",
+        "root_word": "وَالۡأُولَىٰ",
         "global_word_sequence_number": 76715,
         "global_verse_sequence_number": 6071
     },
@@ -681,7 +681,7 @@
         "word_number_in_verse": 4,
         "language_code": "bn",
         "text": "নিতান্ত হতভাগ্য",
-        "root_word": "ٱلۡأَشۡقَى",
+        "root_word": "الۡأَشۡقَى",
         "global_word_sequence_number": 76722,
         "global_verse_sequence_number": 6073
     },
@@ -695,7 +695,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "যে",
-        "root_word": "ٱلَّذِي",
+        "root_word": "الَّذِي",
         "global_word_sequence_number": 76723,
         "global_verse_sequence_number": 6074
     },
@@ -751,7 +751,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "পরম মুত্তাকীকে",
-        "root_word": "ٱلۡأَتۡقَى",
+        "root_word": "الۡأَتۡقَى",
         "global_word_sequence_number": 76727,
         "global_verse_sequence_number": 6075
     },
@@ -765,7 +765,7 @@
         "word_number_in_verse": 1,
         "language_code": "bn",
         "text": "যে",
-        "root_word": "ٱلَّذِي",
+        "root_word": "الَّذِي",
         "global_word_sequence_number": 76728,
         "global_verse_sequence_number": 6076
     },
@@ -919,7 +919,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "সে অন্বেষণ করে",
-        "root_word": "ٱبۡتِغَآءَ",
+        "root_word": "ابۡتِغَآءَ",
         "global_word_sequence_number": 76739,
         "global_verse_sequence_number": 6078
     },
@@ -961,7 +961,7 @@
         "word_number_in_verse": 5,
         "language_code": "bn",
         "text": "সর্বশ্রেষ্ঠ",
-        "root_word": "ٱلۡأَعۡلَىٰ",
+        "root_word": "الۡأَعۡلَىٰ",
         "global_word_sequence_number": 76742,
         "global_verse_sequence_number": 6078
     },

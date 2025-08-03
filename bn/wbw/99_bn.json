@@ -37,7 +37,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "পৃথিবী",
-        "root_word": "ٱلۡأَرۡضُ",
+        "root_word": "الۡأَرۡضُ",
         "global_word_sequence_number": 77044,
         "global_verse_sequence_number": 6139
     },
@@ -79,7 +79,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "পৃথিবী",
-        "root_word": "ٱلۡأَرۡضُ",
+        "root_word": "الۡأَرۡضُ",
         "global_word_sequence_number": 77047,
         "global_verse_sequence_number": 6140
     },
@@ -121,7 +121,7 @@
         "word_number_in_verse": 2,
         "language_code": "bn",
         "text": "মানুষ",
-        "root_word": "ٱلۡإِنسَٰنُ",
+        "root_word": "الۡإِنسَٰنُ",
         "global_word_sequence_number": 77050,
         "global_verse_sequence_number": 6141
     },
@@ -289,7 +289,7 @@
         "word_number_in_verse": 3,
         "language_code": "bn",
         "text": "মানুষ",
-        "root_word": "ٱلنَّاسُ",
+        "root_word": "النَّاسُ",
         "global_word_sequence_number": 77062,
         "global_verse_sequence_number": 6144
     },

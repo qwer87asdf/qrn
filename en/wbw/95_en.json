@@ -9,7 +9,7 @@
         "word_number_in_verse": 1,
         "language_code": "en",
         "text": "By the fig",
-        "root_word": "وَٱلتِّينِ",
+        "root_word": "وَالتِّينِ",
         "global_word_sequence_number": 76812,
         "global_verse_sequence_number": 6099
     },
@@ -23,7 +23,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "and the olive",
-        "root_word": "وَٱلزَّيۡتُونِ",
+        "root_word": "وَالزَّيۡتُونِ",
         "global_word_sequence_number": 76813,
         "global_verse_sequence_number": 6099
     },
@@ -79,7 +79,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "[the] city",
-        "root_word": "ٱلۡبَلَدِ",
+        "root_word": "الۡبَلَدِ",
         "global_word_sequence_number": 76817,
         "global_verse_sequence_number": 6101
     },
@@ -93,7 +93,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "[the] secure",
-        "root_word": "ٱلۡأَمِينِ",
+        "root_word": "الۡأَمِينِ",
         "global_word_sequence_number": 76818,
         "global_verse_sequence_number": 6101
     },
@@ -135,7 +135,7 @@
         "word_number_in_verse": 3,
         "language_code": "en",
         "text": "man",
-        "root_word": "ٱلۡإِنسَٰنَ",
+        "root_word": "الۡإِنسَٰنَ",
         "global_word_sequence_number": 76821,
         "global_verse_sequence_number": 6102
     },
@@ -261,7 +261,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "those who",
-        "root_word": "ٱلَّذِينَ",
+        "root_word": "الَّذِينَ",
         "global_word_sequence_number": 76830,
         "global_verse_sequence_number": 6104
     },
@@ -303,7 +303,7 @@
         "word_number_in_verse": 5,
         "language_code": "en",
         "text": "righteous deeds",
-        "root_word": "ٱلصَّٰلِحَٰتِ",
+        "root_word": "الصَّٰلِحَٰتِ",
         "global_word_sequence_number": 76833,
         "global_verse_sequence_number": 6104
     },
@@ -415,7 +415,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "the judgment",
-        "root_word": "بِٱلدِّينِ",
+        "root_word": "بِالدِّينِ",
         "global_word_sequence_number": 76841,
         "global_verse_sequence_number": 6105
     },
@@ -443,7 +443,7 @@
         "word_number_in_verse": 2,
         "language_code": "en",
         "text": "Allah",
-        "root_word": "ٱللَّهُ",
+        "root_word": "اللَّهُ",
         "global_word_sequence_number": 76843,
         "global_verse_sequence_number": 6106
     },
@@ -471,7 +471,7 @@
         "word_number_in_verse": 4,
         "language_code": "en",
         "text": "(of) the Judges",
-        "root_word": "ٱلۡحَٰكِمِينَ",
+        "root_word": "الۡحَٰكِمِينَ",
         "global_word_sequence_number": 76845,
         "global_verse_sequence_number": 6106
     }
