@@ -1,0 +1,29 @@
+{
+  "host": "https://github.com/qwer87asdf/qrn/blob/main",
+  "version": 7,
+  "sdk_version": 5,
+  "bn": {
+    "reciters": {
+      "url": "reciters.json",
+      "last_update": 1755329627
+    },
+    "chapters": {
+      "url": "chapters.json",
+      "last_update": 1755329627
+    },
+    "wbw": [
+      100,
+      40
+    ]
+  },
+  "common": {
+    "translators": {
+      "url": "translators.json",
+      "last_update": 1755329627
+    },
+    "translations": [
+      "hilalikhan",
+      "saheeh"
+    ]
+  }
+}
