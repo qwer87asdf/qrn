@@ -37,7 +37,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "আল্লাহ",
-    "root_word": "ٱللَّهُ",
+    "root_word": "اللّٰهُ",
     "global_word_sequence_number": 77375,
     "global_verse_sequence_number": 6222
   },
@@ -51,7 +51,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "এক-অদ্বিতীয়",
-    "root_word": "أَحَدٌ",
+    "root_word": "اَحَدٌ",
     "global_word_sequence_number": 77376,
     "global_verse_sequence_number": 6222
   },
@@ -65,7 +65,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "আল্লাহ",
-    "root_word": "ٱللَّهُ",
+    "root_word": "اَللّٰهُ",
     "global_word_sequence_number": 77377,
     "global_verse_sequence_number": 6223
   },
@@ -79,7 +79,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "অমুখাপেক্ষী",
-    "root_word": "ٱلصَّمَدُ",
+    "root_word": "الصَّمَدُ",
     "global_word_sequence_number": 77378,
     "global_verse_sequence_number": 6223
   },
@@ -107,7 +107,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "তিনি (কাউকে) জন্ম দেন",
-    "root_word": "يَلِدْ",
+    "root_word": "یَلِدْ ۙ۬",
     "global_word_sequence_number": 77380,
     "global_verse_sequence_number": 6224
   },
@@ -135,7 +135,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "তাঁকে জন্ম দেয়া হয়",
-    "root_word": "يُولَدْ",
+    "root_word": "یُوْلَدْ",
     "global_word_sequence_number": 77382,
     "global_verse_sequence_number": 6224
   },
@@ -163,7 +163,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "(হয়)",
-    "root_word": "يَكُن",
+    "root_word": "یَكُنْ",
     "global_word_sequence_number": 77384,
     "global_verse_sequence_number": 6225
   },
@@ -177,7 +177,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "তাঁর",
-    "root_word": "لَّهُۥ",
+    "root_word": "لَّهٗ",
     "global_word_sequence_number": 77385,
     "global_verse_sequence_number": 6225
   },
@@ -205,7 +205,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "কেউই\"",
-    "root_word": "أَحَدٌۢ",
+    "root_word": "اَحَدٌ",
     "global_word_sequence_number": 77387,
     "global_verse_sequence_number": 6225
   }

@@ -9,7 +9,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "তোমাদের মোহাচ্ছন্ন করে রেখেছে",
-    "root_word": "أَلْهَىٰكُمُ",
+    "root_word": "اَلْهٰىكُمُ",
     "global_word_sequence_number": 77155,
     "global_verse_sequence_number": 6169
   },
@@ -23,7 +23,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "প্রাচুর্যের প্রতিযোগিতা",
-    "root_word": "ٱلتَّكَاثُرُ",
+    "root_word": "التَّكَاثُرُ",
     "global_word_sequence_number": 77156,
     "global_verse_sequence_number": 6169
   },
@@ -37,7 +37,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "যতক্ষণ না",
-    "root_word": "حَتَّىٰ",
+    "root_word": "حَتّٰی",
     "global_word_sequence_number": 77157,
     "global_verse_sequence_number": 6170
   },
@@ -65,7 +65,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "কবরসমূহে",
-    "root_word": "ٱلْمَقَابِرَ",
+    "root_word": "الْمَقَابِرَ",
     "global_word_sequence_number": 77159,
     "global_verse_sequence_number": 6170
   },
@@ -107,7 +107,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "তোমরা জানবে",
-    "root_word": "تَعْلَمُونَ",
+    "root_word": "تَعْلَمُوْنَ",
     "global_word_sequence_number": 77162,
     "global_verse_sequence_number": 6171
   },
@@ -163,7 +163,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "তোমরা জানবে",
-    "root_word": "تَعْلَمُونَ",
+    "root_word": "تَعْلَمُوْنَ",
     "global_word_sequence_number": 77166,
     "global_verse_sequence_number": 6172
   },
@@ -205,7 +205,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "তোমরা জানতে",
-    "root_word": "تَعْلَمُونَ",
+    "root_word": "تَعْلَمُوْنَ",
     "global_word_sequence_number": 77169,
     "global_verse_sequence_number": 6173
   },
@@ -233,7 +233,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "নিশ্চিত",
-    "root_word": "ٱلْيَقِينِ",
+    "root_word": "الْیَقِیْنِ",
     "global_word_sequence_number": 77171,
     "global_verse_sequence_number": 6173
   },
@@ -261,7 +261,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "দোযখ",
-    "root_word": "ٱلْجَحِيمَ",
+    "root_word": "الْجَحِیْمَ",
     "global_word_sequence_number": 77173,
     "global_verse_sequence_number": 6174
   },
@@ -303,7 +303,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "চোখে",
-    "root_word": "عَيْنَ",
+    "root_word": "عَیْنَ",
     "global_word_sequence_number": 77176,
     "global_verse_sequence_number": 6175
   },
@@ -317,7 +317,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "প্রত্যয়",
-    "root_word": "ٱلْيَقِينِ",
+    "root_word": "الْیَقِیْنِ",
     "global_word_sequence_number": 77177,
     "global_verse_sequence_number": 6175
   },
@@ -359,7 +359,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "সেদিন",
-    "root_word": "يَوْمَئِذٍ",
+    "root_word": "یَوْمَىِٕذٍ",
     "global_word_sequence_number": 77180,
     "global_verse_sequence_number": 6176
   },
@@ -387,7 +387,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "নিয়ামতসমূহ",
-    "root_word": "ٱلنَّعِيمِ",
+    "root_word": "النَّعِیْمِ",
     "global_word_sequence_number": 77182,
     "global_verse_sequence_number": 6176
   }

@@ -9,7 +9,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "তুমি কি দেখেছ",
-    "root_word": "أَرَءَيْتَ",
+    "root_word": "اَرَءَیْتَ",
     "global_word_sequence_number": 77270,
     "global_verse_sequence_number": 6198
   },
@@ -23,7 +23,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "(তাকে) যে",
-    "root_word": "ٱلَّذِى",
+    "root_word": "الَّذِیْ",
     "global_word_sequence_number": 77271,
     "global_verse_sequence_number": 6198
   },
@@ -37,7 +37,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "মিথ্যা অভিহিত করে",
-    "root_word": "يُكَذِّبُ",
+    "root_word": "یُكَذِّبُ",
     "global_word_sequence_number": 77272,
     "global_verse_sequence_number": 6198
   },
@@ -51,7 +51,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "বিচার দিনকে",
-    "root_word": "بِٱلدِّينِ",
+    "root_word": "بِالدِّیْنِ",
     "global_word_sequence_number": 77273,
     "global_verse_sequence_number": 6198
   },
@@ -65,7 +65,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "সে তো সে-ই",
-    "root_word": "فَذَٰلِكَ",
+    "root_word": "فَذٰلِكَ",
     "global_word_sequence_number": 77274,
     "global_verse_sequence_number": 6199
   },
@@ -79,7 +79,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "যে",
-    "root_word": "ٱلَّذِى",
+    "root_word": "الَّذِیْ",
     "global_word_sequence_number": 77275,
     "global_verse_sequence_number": 6199
   },
@@ -93,7 +93,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "ধাক্কা দেয়",
-    "root_word": "يَدُعُّ",
+    "root_word": "یَدُعُّ",
     "global_word_sequence_number": 77276,
     "global_verse_sequence_number": 6199
   },
@@ -107,7 +107,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "ইয়াতিমকে",
-    "root_word": "ٱلْيَتِيمَ",
+    "root_word": "الْیَتِیْمَ",
     "global_word_sequence_number": 77277,
     "global_verse_sequence_number": 6199
   },
@@ -135,7 +135,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "উৎসাহিত করে",
-    "root_word": "يَحُضُّ",
+    "root_word": "یَحُضُّ",
     "global_word_sequence_number": 77279,
     "global_verse_sequence_number": 6200
   },
@@ -149,7 +149,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "ব্যাপারে",
-    "root_word": "عَلَىٰ",
+    "root_word": "عَلٰی",
     "global_word_sequence_number": 77280,
     "global_verse_sequence_number": 6200
   },
@@ -177,7 +177,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "অভাবগ্রস্তকে",
-    "root_word": "ٱلْمِسْكِينِ",
+    "root_word": "الْمِسْكِیْنِ",
     "global_word_sequence_number": 77282,
     "global_verse_sequence_number": 6200
   },
@@ -191,7 +191,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "অতএব দুর্ভোগ",
-    "root_word": "فَوَيْلٌۭ",
+    "root_word": "فَوَیْلٌ",
     "global_word_sequence_number": 77283,
     "global_verse_sequence_number": 6201
   },
@@ -205,7 +205,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "(ঐসব) সালাত আদায়কারীদের জন্য",
-    "root_word": "لِّلْمُصَلِّينَ",
+    "root_word": "لِّلْمُصَلِّیْنَ",
     "global_word_sequence_number": 77284,
     "global_verse_sequence_number": 6201
   },
@@ -219,7 +219,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "যাদের (বৈশিষ্ট্য হলো)",
-    "root_word": "ٱلَّذِينَ",
+    "root_word": "الَّذِیْنَ",
     "global_word_sequence_number": 77285,
     "global_verse_sequence_number": 6202
   },
@@ -247,7 +247,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "সম্বন্ধে",
-    "root_word": "عَن",
+    "root_word": "عَنْ",
     "global_word_sequence_number": 77287,
     "global_verse_sequence_number": 6202
   },
@@ -275,7 +275,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "উদাসীন",
-    "root_word": "سَاهُونَ",
+    "root_word": "سَاهُوْنَ",
     "global_word_sequence_number": 77289,
     "global_verse_sequence_number": 6202
   },
@@ -289,7 +289,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "যাদের (বৈশিষ্ট্য হলো)",
-    "root_word": "ٱلَّذِينَ",
+    "root_word": "الَّذِیْنَ",
     "global_word_sequence_number": 77290,
     "global_verse_sequence_number": 6203
   },
@@ -317,7 +317,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "লোকদেখানোর (কাজ করে)",
-    "root_word": "يُرَآءُونَ",
+    "root_word": "یُرَآءُوْنَ",
     "global_word_sequence_number": 77292,
     "global_verse_sequence_number": 6203
   },
@@ -331,7 +331,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "এবং দেওয়া হতে বিরত থাকে",
-    "root_word": "وَيَمْنَعُونَ",
+    "root_word": "وَیَمْنَعُوْنَ",
     "global_word_sequence_number": 77293,
     "global_verse_sequence_number": 6204
   },
@@ -345,7 +345,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "সংসারের প্রয়োজনীয় ছোটখাটো জিনিসের",
-    "root_word": "ٱلْمَاعُونَ",
+    "root_word": "الْمَاعُوْنَ",
     "global_word_sequence_number": 77294,
     "global_verse_sequence_number": 6204
   }

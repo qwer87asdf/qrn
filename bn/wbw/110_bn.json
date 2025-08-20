@@ -9,7 +9,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "যখন",
-    "root_word": "إِذَا",
+    "root_word": "اِذَا",
     "global_word_sequence_number": 77331,
     "global_verse_sequence_number": 6214
   },
@@ -51,7 +51,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "আল্লাহর",
-    "root_word": "ٱللَّهِ",
+    "root_word": "اللّٰهِ",
     "global_word_sequence_number": 77334,
     "global_verse_sequence_number": 6214
   },
@@ -65,7 +65,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "ও বিজয়",
-    "root_word": "وَٱلْفَتْحُ",
+    "root_word": "وَالْفَتْحُ",
     "global_word_sequence_number": 77335,
     "global_verse_sequence_number": 6214
   },
@@ -79,7 +79,7 @@
     "word_number_in_verse": 1,
     "language_code": "bn",
     "text": "এবং তুমি দেখবে",
-    "root_word": "وَرَأَيْتَ",
+    "root_word": "وَرَاَیْتَ",
     "global_word_sequence_number": 77336,
     "global_verse_sequence_number": 6215
   },
@@ -93,7 +93,7 @@
     "word_number_in_verse": 2,
     "language_code": "bn",
     "text": "মানুষকে",
-    "root_word": "ٱلنَّاسَ",
+    "root_word": "النَّاسَ",
     "global_word_sequence_number": 77337,
     "global_verse_sequence_number": 6215
   },
@@ -107,7 +107,7 @@
     "word_number_in_verse": 3,
     "language_code": "bn",
     "text": "প্রবেশ করছে",
-    "root_word": "يَدْخُلُونَ",
+    "root_word": "یَدْخُلُوْنَ",
     "global_word_sequence_number": 77338,
     "global_verse_sequence_number": 6215
   },
@@ -121,7 +121,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "মধ্যে",
-    "root_word": "فِى",
+    "root_word": "فِیْ",
     "global_word_sequence_number": 77339,
     "global_verse_sequence_number": 6215
   },
@@ -135,7 +135,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "দীনের",
-    "root_word": "دِينِ",
+    "root_word": "دِیْنِ",
     "global_word_sequence_number": 77340,
     "global_verse_sequence_number": 6215
   },
@@ -149,7 +149,7 @@
     "word_number_in_verse": 6,
     "language_code": "bn",
     "text": "আল্লাহর",
-    "root_word": "ٱللَّهِ",
+    "root_word": "اللّٰهِ",
     "global_word_sequence_number": 77341,
     "global_verse_sequence_number": 6215
   },
@@ -163,7 +163,7 @@
     "word_number_in_verse": 7,
     "language_code": "bn",
     "text": "দলে দলে",
-    "root_word": "أَفْوَاجًۭا",
+    "root_word": "اَفْوَاجًا",
     "global_word_sequence_number": 77342,
     "global_verse_sequence_number": 6215
   },
@@ -219,7 +219,7 @@
     "word_number_in_verse": 4,
     "language_code": "bn",
     "text": "এবং তাঁর (নিকট) ক্ষমা চাও",
-    "root_word": "وَٱسْتَغْفِرْهُ ۚ",
+    "root_word": "وَاسْتَغْفِرْهُ ؔؕ",
     "global_word_sequence_number": 77346,
     "global_verse_sequence_number": 6216
   },
@@ -233,7 +233,7 @@
     "word_number_in_verse": 5,
     "language_code": "bn",
     "text": "নিশ্চয়ই",
-    "root_word": "إِنَّهُۥ",
+    "root_word": "اِنَّهٗ",
     "global_word_sequence_number": 77347,
     "global_verse_sequence_number": 6216
   },
@@ -261,7 +261,7 @@
     "word_number_in_verse": 7,
     "language_code": "bn",
     "text": "ক্ষমাপরবশ",
-    "root_word": "تَوَّابًۢا",
+    "root_word": "تَوَّابًا",
     "global_word_sequence_number": 77349,
     "global_verse_sequence_number": 6216
   }

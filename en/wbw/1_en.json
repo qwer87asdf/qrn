@@ -23,7 +23,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "(of) Allah",
-    "root_word": "ٱللَّهِ",
+    "root_word": "اللّٰهِ",
     "global_word_sequence_number": 2,
     "global_verse_sequence_number": 1
   },
@@ -37,7 +37,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "the Most Gracious",
-    "root_word": "ٱلرَّحْمَـٰنِ",
+    "root_word": "الرَّحْمٰنِ",
     "global_word_sequence_number": 3,
     "global_verse_sequence_number": 1
   },
@@ -51,7 +51,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "the Most Merciful",
-    "root_word": "ٱلرَّحِيمِ",
+    "root_word": "الرَّحِیْمِ",
     "global_word_sequence_number": 4,
     "global_verse_sequence_number": 1
   },
@@ -65,7 +65,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "All praises and thanks",
-    "root_word": "ٱلْحَمْدُ",
+    "root_word": "اَلْحَمْدُ",
     "global_word_sequence_number": 5,
     "global_verse_sequence_number": 2
   },
@@ -79,7 +79,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "(be) to Allah",
-    "root_word": "لِلَّهِ",
+    "root_word": "لِلّٰهِ",
     "global_word_sequence_number": 6,
     "global_verse_sequence_number": 2
   },
@@ -107,7 +107,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "of the universe",
-    "root_word": "ٱلْعَـٰلَمِينَ",
+    "root_word": "الْعٰلَمِیْنَ",
     "global_word_sequence_number": 8,
     "global_verse_sequence_number": 2
   },
@@ -121,7 +121,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "The Most Gracious",
-    "root_word": "ٱلرَّحْمَـٰنِ",
+    "root_word": "الرَّحْمٰنِ",
     "global_word_sequence_number": 9,
     "global_verse_sequence_number": 3
   },
@@ -135,7 +135,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "the Most Merciful",
-    "root_word": "ٱلرَّحِيمِ",
+    "root_word": "الرَّحِیْمِ",
     "global_word_sequence_number": 10,
     "global_verse_sequence_number": 3
   },
@@ -149,7 +149,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "(The) Master",
-    "root_word": "مَـٰلِكِ",
+    "root_word": "مٰلِكِ",
     "global_word_sequence_number": 11,
     "global_verse_sequence_number": 4
   },
@@ -163,7 +163,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "(of the) Day",
-    "root_word": "يَوْمِ",
+    "root_word": "یَوْمِ",
     "global_word_sequence_number": 12,
     "global_verse_sequence_number": 4
   },
@@ -177,7 +177,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "(of the) Judgment",
-    "root_word": "ٱلدِّينِ",
+    "root_word": "الدِّیْنِ",
     "global_word_sequence_number": 13,
     "global_verse_sequence_number": 4
   },
@@ -191,7 +191,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "You Alone",
-    "root_word": "إِيَّاكَ",
+    "root_word": "اِیَّاكَ",
     "global_word_sequence_number": 14,
     "global_verse_sequence_number": 5
   },
@@ -219,7 +219,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "and You Alone",
-    "root_word": "وَإِيَّاكَ",
+    "root_word": "وَاِیَّاكَ",
     "global_word_sequence_number": 16,
     "global_verse_sequence_number": 5
   },
@@ -233,7 +233,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "we ask for help",
-    "root_word": "نَسْتَعِينُ",
+    "root_word": "نَسْتَعِیْنُ",
     "global_word_sequence_number": 17,
     "global_verse_sequence_number": 5
   },
@@ -247,7 +247,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "Guide us",
-    "root_word": "ٱهْدِنَا",
+    "root_word": "اِهْدِنَا",
     "global_word_sequence_number": 18,
     "global_verse_sequence_number": 6
   },
@@ -261,7 +261,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "(to) the path",
-    "root_word": "ٱلصِّرَٰطَ",
+    "root_word": "الصِّرَاطَ",
     "global_word_sequence_number": 19,
     "global_verse_sequence_number": 6
   },
@@ -275,7 +275,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "the straight",
-    "root_word": "ٱلْمُسْتَقِيمَ",
+    "root_word": "الْمُسْتَقِیْمَ",
     "global_word_sequence_number": 20,
     "global_verse_sequence_number": 6
   },
@@ -289,7 +289,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "(The) path",
-    "root_word": "صِرَٰطَ",
+    "root_word": "صِرَاطَ",
     "global_word_sequence_number": 21,
     "global_verse_sequence_number": 7
   },
@@ -303,7 +303,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "(of) those",
-    "root_word": "ٱلَّذِينَ",
+    "root_word": "الَّذِیْنَ",
     "global_word_sequence_number": 22,
     "global_verse_sequence_number": 7
   },
@@ -317,7 +317,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "You have bestowed (Your) Favors",
-    "root_word": "أَنْعَمْتَ",
+    "root_word": "اَنْعَمْتَ",
     "global_word_sequence_number": 23,
     "global_verse_sequence_number": 7
   },
@@ -331,7 +331,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "on them",
-    "root_word": "عَلَيْهِمْ",
+    "root_word": "عَلَیْهِمْ ۙ۬ۦ",
     "global_word_sequence_number": 24,
     "global_verse_sequence_number": 7
   },
@@ -345,7 +345,7 @@
     "word_number_in_verse": 5,
     "language_code": "en",
     "text": "not (of)",
-    "root_word": "غَيْرِ",
+    "root_word": "غَیْرِ",
     "global_word_sequence_number": 25,
     "global_verse_sequence_number": 7
   },
@@ -359,7 +359,7 @@
     "word_number_in_verse": 6,
     "language_code": "en",
     "text": "those who earned (Your) wrath",
-    "root_word": "ٱلْمَغْضُوبِ",
+    "root_word": "الْمَغْضُوْبِ",
     "global_word_sequence_number": 26,
     "global_verse_sequence_number": 7
   },
@@ -373,7 +373,7 @@
     "word_number_in_verse": 7,
     "language_code": "en",
     "text": "on themselves",
-    "root_word": "عَلَيْهِمْ",
+    "root_word": "عَلَیْهِمْ",
     "global_word_sequence_number": 27,
     "global_verse_sequence_number": 7
   },
@@ -401,7 +401,7 @@
     "word_number_in_verse": 9,
     "language_code": "en",
     "text": "(of) those who go astray",
-    "root_word": "ٱلضَّآلِّينَ",
+    "root_word": "الضَّآلِّیْنَ",
     "global_word_sequence_number": 29,
     "global_verse_sequence_number": 7
   }

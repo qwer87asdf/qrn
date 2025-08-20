@@ -9,7 +9,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "Woe",
-    "root_word": "وَيْلٌۭ",
+    "root_word": "وَیْلٌ",
     "global_word_sequence_number": 77197,
     "global_verse_sequence_number": 6180
   },
@@ -23,7 +23,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "to every",
-    "root_word": "لِّكُلِّ",
+    "root_word": "لِّكُلِّ",
     "global_word_sequence_number": 77198,
     "global_verse_sequence_number": 6180
   },
@@ -37,7 +37,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "slanderer",
-    "root_word": "هُمَزَةٍۢ",
+    "root_word": "هُمَزَةٍ",
     "global_word_sequence_number": 77199,
     "global_verse_sequence_number": 6180
   },
@@ -51,7 +51,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "backbiter",
-    "root_word": "لُّمَزَةٍ",
+    "root_word": "لُّمَزَةِ",
     "global_word_sequence_number": 77200,
     "global_verse_sequence_number": 6180
   },
@@ -65,7 +65,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "The one who",
-    "root_word": "ٱلَّذِى",
+    "root_word": "لَّذِیْ",
     "global_word_sequence_number": 77201,
     "global_verse_sequence_number": 6181
   },
@@ -93,7 +93,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "wealth",
-    "root_word": "مَالًۭا",
+    "root_word": "مَالًا",
     "global_word_sequence_number": 77203,
     "global_verse_sequence_number": 6181
   },
@@ -107,7 +107,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "and counts it",
-    "root_word": "وَعَدَّدَهُۥ",
+    "root_word": "وَّعَدَّدَهٗ",
     "global_word_sequence_number": 77204,
     "global_verse_sequence_number": 6181
   },
@@ -121,7 +121,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "Thinking",
-    "root_word": "يَحْسَبُ",
+    "root_word": "یَحْسَبُ",
     "global_word_sequence_number": 77205,
     "global_verse_sequence_number": 6182
   },
@@ -135,7 +135,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "that",
-    "root_word": "أَنَّ",
+    "root_word": "اَنَّ",
     "global_word_sequence_number": 77206,
     "global_verse_sequence_number": 6182
   },
@@ -149,7 +149,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "his wealth",
-    "root_word": "مَالَهُۥٓ",
+    "root_word": "مَالَهٗۤ",
     "global_word_sequence_number": 77207,
     "global_verse_sequence_number": 6182
   },
@@ -163,7 +163,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "will make him immortal",
-    "root_word": "أَخْلَدَهُۥ",
+    "root_word": "اَخْلَدَهٗ",
     "global_word_sequence_number": 77208,
     "global_verse_sequence_number": 6182
   },
@@ -177,7 +177,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "Nay",
-    "root_word": "كَلَّا ۖ",
+    "root_word": "كَلَّا",
     "global_word_sequence_number": 77209,
     "global_verse_sequence_number": 6183
   },
@@ -191,7 +191,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "Surely he will be thrown",
-    "root_word": "لَيُنۢبَذَنَّ",
+    "root_word": "لَیُنْۢبَذَنَّ",
     "global_word_sequence_number": 77210,
     "global_verse_sequence_number": 6183
   },
@@ -205,7 +205,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "in",
-    "root_word": "فِى",
+    "root_word": "فِی",
     "global_word_sequence_number": 77211,
     "global_verse_sequence_number": 6183
   },
@@ -219,7 +219,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "the Crusher",
-    "root_word": "ٱلْحُطَمَةِ",
+    "root_word": "الْحُطَمَةِ",
     "global_word_sequence_number": 77212,
     "global_verse_sequence_number": 6183
   },
@@ -233,7 +233,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "And what",
-    "root_word": "وَمَآ",
+    "root_word": "وَمَاۤ",
     "global_word_sequence_number": 77213,
     "global_verse_sequence_number": 6184
   },
@@ -247,7 +247,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "will make you know",
-    "root_word": "أَدْرَىٰكَ",
+    "root_word": "اَدْرٰىكَ",
     "global_word_sequence_number": 77214,
     "global_verse_sequence_number": 6184
   },
@@ -275,7 +275,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "the Crusher (is)",
-    "root_word": "ٱلْحُطَمَةُ",
+    "root_word": "الْحُطَمَةُ",
     "global_word_sequence_number": 77216,
     "global_verse_sequence_number": 6184
   },
@@ -303,7 +303,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "Allah",
-    "root_word": "ٱللَّهِ",
+    "root_word": "اللّٰهِ",
     "global_word_sequence_number": 77218,
     "global_verse_sequence_number": 6185
   },
@@ -317,7 +317,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "kindled",
-    "root_word": "ٱلْمُوقَدَةُ",
+    "root_word": "الْمُوْقَدَةُ",
     "global_word_sequence_number": 77219,
     "global_verse_sequence_number": 6185
   },
@@ -331,7 +331,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "Which",
-    "root_word": "ٱلَّتِى",
+    "root_word": "الَّتِیْ",
     "global_word_sequence_number": 77220,
     "global_verse_sequence_number": 6186
   },
@@ -359,7 +359,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "to",
-    "root_word": "عَلَى",
+    "root_word": "عَلَی",
     "global_word_sequence_number": 77222,
     "global_verse_sequence_number": 6186
   },
@@ -373,7 +373,7 @@
     "word_number_in_verse": 4,
     "language_code": "en",
     "text": "the hearts",
-    "root_word": "ٱلْأَفْـِٔدَةِ",
+    "root_word": "الْاَفْـِٕدَةِ",
     "global_word_sequence_number": 77223,
     "global_verse_sequence_number": 6186
   },
@@ -387,7 +387,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "Indeed, it",
-    "root_word": "إِنَّهَا",
+    "root_word": "اِنَّهَا",
     "global_word_sequence_number": 77224,
     "global_verse_sequence_number": 6187
   },
@@ -401,7 +401,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "(will be) upon them",
-    "root_word": "عَلَيْهِم",
+    "root_word": "عَلَیْهِمْ",
     "global_word_sequence_number": 77225,
     "global_verse_sequence_number": 6187
   },
@@ -415,7 +415,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "closed over",
-    "root_word": "مُّؤْصَدَةٌۭ",
+    "root_word": "مُّؤْصَدَةٌ",
     "global_word_sequence_number": 77226,
     "global_verse_sequence_number": 6187
   },
@@ -429,7 +429,7 @@
     "word_number_in_verse": 1,
     "language_code": "en",
     "text": "In",
-    "root_word": "فِى",
+    "root_word": "فِیْ",
     "global_word_sequence_number": 77227,
     "global_verse_sequence_number": 6188
   },
@@ -443,7 +443,7 @@
     "word_number_in_verse": 2,
     "language_code": "en",
     "text": "columns",
-    "root_word": "عَمَدٍۢ",
+    "root_word": "عَمَدٍ",
     "global_word_sequence_number": 77228,
     "global_verse_sequence_number": 6188
   },
@@ -457,7 +457,7 @@
     "word_number_in_verse": 3,
     "language_code": "en",
     "text": "extended",
-    "root_word": "مُّمَدَّدَةٍۭ",
+    "root_word": "مُّمَدَّدَةٍ",
     "global_word_sequence_number": 77229,
     "global_verse_sequence_number": 6188
   }
