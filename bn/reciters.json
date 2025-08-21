@@ -48,11 +48,6 @@
   { "name": "আজিজ আলিলি", "short_code": "AZALILI", "audio_url": "https://everyayah.com/data/aziz_alili_128kbps/" },
   { "name": "খালিফা আল তুনাইজি", "short_code": "KALTUNAIJI", "audio_url": "https://everyayah.com/data/khalefa_al_tunaiji_64kbps/" },
   { "name": "মাহমুদ আলী আল বান্না", "short_code": "MALBANNA", "audio_url": "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/" },
-  { "name": "হেদায়াতফার - ফুলাদভান্দ অনুবাদ সহ", "short_code": "HEDFOOL", "audio_url": "https://everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/" },
-  { "name": "মাকারেম কাবিরি - অনুবাদ সহ", "short_code": "MAKAREM", "audio_url": "https://everyayah.com/data/translations/Makarem_Kabiri_16Kbps/" },
-  { "name": "বালায়েভ - আজারবাইজানি অনুবাদ সহ", "short_code": "BALAYEV", "audio_url": "https://everyayah.com/data/translations/azerbaijani/balayev/" },
-  { "name": "বেসিম করকুট - অনুবাদ সহ", "short_code": "BKORKUT", "audio_url": "https://everyayah.com/data/translations/besim_korkut_ajet_po_ajet/" },
-  { "name": "ফারহাত হাশমি - উর্দু অনুবাদ সহ", "short_code": "FHASHMI", "audio_url": "https://everyayah.com/data/translations/urdu_farhat_hashmi/" },
   { "name": "ইব্রাহিম আল দোসারি - ওয়ারশ", "short_code": "IALDOSWAR", "audio_url": "https://everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/" },
   { "name": "ইয়াসিন আল জাজাইরি - ওয়ারশ", "short_code": "YJAZWAR", "audio_url": "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/" }
 ]

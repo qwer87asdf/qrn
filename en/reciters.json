@@ -48,12 +48,6 @@
   { "name": "Aziz Alili", "short_code": "AZALILI", "audio_url": "https://everyayah.com/data/aziz_alili_128kbps/" },
   { "name": "Khalefa Al Tunaiji", "short_code": "KALTUNAIJI", "audio_url": "https://everyayah.com/data/khalefa_al_tunaiji_64kbps/" },
   { "name": "Mahmoud Ali Al Banna", "short_code": "MALBANNA", "audio_url": "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/" },
-  { "name": "Hedayatfar - with translations by Fooladvand", "short_code": "HEDFOOL", "audio_url": "https://everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/" },
-  { "name": "Makarem Kabiri - with translations", "short_code": "MAKAREM", "audio_url": "https://everyayah.com/data/translations/Makarem_Kabiri_16Kbps/" },
-  { "name": "Balayev - with azerbaijani translations", "short_code": "BALAYEV", "audio_url": "https://everyayah.com/data/translations/azerbaijani/balayev/" },
-  { "name": "Besim Korkut - with translations", "short_code": "BKORKUT", "audio_url": "https://everyayah.com/data/translations/besim_korkut_ajet_po_ajet/" },
-  { "name": "Farhat Hashmi - with Urdu translations", "short_code": "FHASHMI", "audio_url": "https://everyayah.com/data/translations/urdu_farhat_hashmi/" },
-  { "name": "Shamshad Ali Khan - with Urdu translations", "short_code": "SAKHAN", "audio_url": "https://everyayah.com/data/translations/urdu_shamshad_ali_khan_46kbps/" },
   { "name": "Ibrahim Al Dosary - warsh", "short_code": "IALDOSWAR", "audio_url": "https://everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/" },
   { "name": "Yassin Al Jazaery - warsh", "short_code": "YJAZWAR", "audio_url": "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/" }
 ]
