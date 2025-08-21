@@ -15,6 +15,10 @@
     }
   },
   "common": {
+    "translators": {
+      "url": "translators.json",
+      "last_update": 1755757749
+    },
     "translations": [
       "haleem",
       "hilalikhan",
