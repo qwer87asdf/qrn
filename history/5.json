@@ -2,13 +2,13 @@
   "host": "https://github.com/qwer87asdf/qrn/blob/main",
   "version": 5,
   "sdk_version": 5,
-   "bn": {
+  "bn": {
     "reciters": {
       "url": "reciters.json",
       "last_update": 1755753163
     }
   },
-   "en": {
+  "en": {
     "reciters": {
       "url": "reciters.json",
       "last_update": 1755753163
@@ -16,7 +16,18 @@
   },
   "common": {
     "translations": [
-      "hilalikhan"
+      "haleem",
+      "hilalikhan",
+      "khattab",
+      "maududi",
+      "mujibur",
+      "pickthall",
+      "rawai",
+      "saheeh",
+      "taisirul",
+      "translators",
+      "usmani",
+      "yusufali"
     ]
   }
 }

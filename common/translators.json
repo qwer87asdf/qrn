@@ -9,6 +9,5 @@
     { "name": "Hilali & Khan", "bio": "Hilali & Khan", "code": "hilalikhan", "language_code": "en" },
     { "name": "তাফসিরুল কোরআন", "bio": "Taisirul Quran", "code": "taisirul", "language_code": "bn"},
     { "name": "শেখ মুজিবুর রহমান", "bio": "Sheikh Mujibur Rahman", "code": "mujibur", "language_code": "bn"},
-    { "name": "রাওয়াই আল-বায়ান", "bio": "Rawai Al-bayan", "code": "rawai", "language_code": "bn"},
-    { "name": "ড. আবু বকর মুহাম্মদ জাকারিয়া", "bio": "Dr. Abu Bakr Muhammad Zakaria", "code": "zakaria", "language_code": "bn"}
+    { "name": "রাওয়াই আল-বায়ান", "bio": "Rawai Al-bayan", "code": "rawai", "language_code": "bn"}
 ]
