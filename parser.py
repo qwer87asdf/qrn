@@ -89,19 +89,12 @@ def ensure_output_dir(path: str) -> None:
 def build_entry(verse: Dict[str, Any], word: Dict[str, Any],
                 global_word_seq: int) -> Optional[Dict[str, Any]]:
     """Build one output record for a word. Skip verse-end markers."""
-    # Skip non-word tokens (e.g., ayah-end glyphs)
-    if word.get("char_type_name") != "word":
-        return None
-
     # Use QPC Hafs glyph if present; fallback to text_uthmani
-    root_word = (
-        word.get("text")
-        or word.get("qpc_uthmani_hafs")
-        or word.get("text_uthmani")
-        or word.get("text_imlaei_simple")
-        or word.get("text_indopak")
-        or ""
-    )
+    root_word = word.get("text")
+    uthmani_word = word.get("text_uthmani")
+    indopak_word = word.get("text_indopak")
+    isEnd = word.get("char_type_name") == "end"
+    
 
     # Translation text (Bangla) — in the wbw object
     translation_obj = word.get("translation") or {}
@@ -112,13 +105,17 @@ def build_entry(verse: Dict[str, Any], word: Dict[str, Any],
         "verse": verse.get("verse_number"),
         "juz": verse.get("juz_number"),
         # Your sample’s “hizb” value is actually rub_el_hizb_number (e.g., 240)
-        "hizb": verse.get("rub_el_hizb_number"),
+        "hizb": verse.get("hizb_number"),
         "manzil": verse.get("manzil_number"),
         "ruku": verse.get("ruku_number"),
+        "sajdah": verse.get("sajdah_number", 0),
         "word_number_in_verse": word.get("position"),
         "language_code": LANG_CODE,
         "text": text_bn,
         "root_word": root_word,
+        "root_word_uthmani": uthmani_word,
+        "root_word_indopak": indopak_word,
+        "is_end": isEnd,
         # Global counters/ids
         "global_word_sequence_number": global_word_seq,
         "global_verse_sequence_number": verse.get("id"),
