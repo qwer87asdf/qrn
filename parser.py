@@ -7,8 +7,8 @@ from typing import Dict, Any, List, Optional
 import requests
 
 BASE_URL = "https://api.qurancdn.com/api/qdc/verses/by_chapter/{chapter}"
-OUTPUT_DIR = "./en/wbw"
-LANG_CODE = "en"               # word-by-word translation language
+OUTPUT_DIR = "./bn/wbw"
+LANG_CODE = "bn"               # word-by-word translation language
 TRANSLATION_ID = 161           # Taisirul Quran (as in your sample)
 MUSHAF_ID = 7                  # Script/layout profile
 RECITER_ID = 7                 # Not strictly needed, but matches your calls
@@ -108,14 +108,10 @@ def build_entry(verse: Dict[str, Any], word: Dict[str, Any],
         "hizb": verse.get("hizb_number"),
         "manzil": verse.get("manzil_number"),
         "ruku": verse.get("ruku_number"),
-        "sajdah": verse.get("sajdah_number", 0),
         "word_number_in_verse": word.get("position"),
         "language_code": LANG_CODE,
         "text": text_bn,
         "root_word": root_word,
-        "root_word_uthmani": uthmani_word,
-        "root_word_indopak": indopak_word,
-        "is_end": isEnd,
         # Global counters/ids
         "global_word_sequence_number": global_word_seq,
         "global_verse_sequence_number": verse.get("id"),
@@ -148,7 +144,7 @@ def process_chapter(chapter: int, global_counter_start: int) -> int:
 
     # Write this chapter’s JSON
     ensure_output_dir(OUTPUT_DIR)
-    out_path = os.path.join(OUTPUT_DIR, f"{chapter}_en.json")
+    out_path = os.path.join(OUTPUT_DIR, f"{chapter}_bn.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 

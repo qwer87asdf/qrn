@@ -57,6 +57,20 @@
   },
   {
     "chapter": 1,
+    "verse": 1,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 5,
+    "language_code": "bn",
+    "text": "(১)",
+    "root_word": "۟",
+    "global_word_sequence_number": 5,
+    "global_verse_sequence_number": 1
+  },
+  {
+    "chapter": 1,
     "verse": 2,
     "juz": 1,
     "hizb": 1,
@@ -66,7 +80,7 @@
     "language_code": "bn",
     "text": "সকল প্রশংসা",
     "root_word": "اَلْحَمْدُ",
-    "global_word_sequence_number": 5,
+    "global_word_sequence_number": 6,
     "global_verse_sequence_number": 2
   },
   {
@@ -80,7 +94,7 @@
     "language_code": "bn",
     "text": "আল্লাহ্‌রই জন্য",
     "root_word": "لِلّٰهِ",
-    "global_word_sequence_number": 6,
+    "global_word_sequence_number": 7,
     "global_verse_sequence_number": 2
   },
   {
@@ -94,7 +108,7 @@
     "language_code": "bn",
     "text": "(যিনি) রব",
     "root_word": "رَبِّ",
-    "global_word_sequence_number": 7,
+    "global_word_sequence_number": 8,
     "global_verse_sequence_number": 2
   },
   {
@@ -108,7 +122,21 @@
     "language_code": "bn",
     "text": "সারা জগতের",
     "root_word": "الْعٰلَمِیْنَ",
-    "global_word_sequence_number": 8,
+    "global_word_sequence_number": 9,
+    "global_verse_sequence_number": 2
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 5,
+    "language_code": "bn",
+    "text": "(২)",
+    "root_word": "۟ۙ",
+    "global_word_sequence_number": 10,
     "global_verse_sequence_number": 2
   },
   {
@@ -122,7 +150,7 @@
     "language_code": "bn",
     "text": "অশেষ করুণাময়",
     "root_word": "الرَّحْمٰنِ",
-    "global_word_sequence_number": 9,
+    "global_word_sequence_number": 11,
     "global_verse_sequence_number": 3
   },
   {
@@ -136,7 +164,21 @@
     "language_code": "bn",
     "text": "পরম দয়ালু",
     "root_word": "الرَّحِیْمِ",
-    "global_word_sequence_number": 10,
+    "global_word_sequence_number": 12,
+    "global_verse_sequence_number": 3
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 3,
+    "language_code": "bn",
+    "text": "(৩)",
+    "root_word": "۟ۙ",
+    "global_word_sequence_number": 13,
     "global_verse_sequence_number": 3
   },
   {
@@ -150,7 +192,7 @@
     "language_code": "bn",
     "text": "অধিপতি",
     "root_word": "مٰلِكِ",
-    "global_word_sequence_number": 11,
+    "global_word_sequence_number": 14,
     "global_verse_sequence_number": 4
   },
   {
@@ -164,7 +206,7 @@
     "language_code": "bn",
     "text": "দিনের",
     "root_word": "یَوْمِ",
-    "global_word_sequence_number": 12,
+    "global_word_sequence_number": 15,
     "global_verse_sequence_number": 4
   },
   {
@@ -178,7 +220,21 @@
     "language_code": "bn",
     "text": "বিচারের",
     "root_word": "الدِّیْنِ",
-    "global_word_sequence_number": 13,
+    "global_word_sequence_number": 16,
+    "global_verse_sequence_number": 4
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 4,
+    "language_code": "bn",
+    "text": "(৪)",
+    "root_word": "۟ؕ",
+    "global_word_sequence_number": 17,
     "global_verse_sequence_number": 4
   },
   {
@@ -192,7 +248,7 @@
     "language_code": "bn",
     "text": "আপনারই শুধু",
     "root_word": "اِیَّاكَ",
-    "global_word_sequence_number": 14,
+    "global_word_sequence_number": 18,
     "global_verse_sequence_number": 5
   },
   {
@@ -206,7 +262,7 @@
     "language_code": "bn",
     "text": "আমরা ইবাদত করি",
     "root_word": "نَعْبُدُ",
-    "global_word_sequence_number": 15,
+    "global_word_sequence_number": 19,
     "global_verse_sequence_number": 5
   },
   {
@@ -220,7 +276,7 @@
     "language_code": "bn",
     "text": "এবং আপনারই (কাছে  শুধু)",
     "root_word": "وَاِیَّاكَ",
-    "global_word_sequence_number": 16,
+    "global_word_sequence_number": 20,
     "global_verse_sequence_number": 5
   },
   {
@@ -234,7 +290,21 @@
     "language_code": "bn",
     "text": "আমরা সাহায্য চাই।",
     "root_word": "نَسْتَعِیْنُ",
-    "global_word_sequence_number": 17,
+    "global_word_sequence_number": 21,
+    "global_verse_sequence_number": 5
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 5,
+    "language_code": "bn",
+    "text": "(৫)",
+    "root_word": "۟ؕ",
+    "global_word_sequence_number": 22,
     "global_verse_sequence_number": 5
   },
   {
@@ -248,7 +318,7 @@
     "language_code": "bn",
     "text": "আমাদেরকে দেখান",
     "root_word": "اِهْدِنَا",
-    "global_word_sequence_number": 18,
+    "global_word_sequence_number": 23,
     "global_verse_sequence_number": 6
   },
   {
@@ -262,7 +332,7 @@
     "language_code": "bn",
     "text": "পথ",
     "root_word": "الصِّرَاطَ",
-    "global_word_sequence_number": 19,
+    "global_word_sequence_number": 24,
     "global_verse_sequence_number": 6
   },
   {
@@ -276,7 +346,21 @@
     "language_code": "bn",
     "text": "সরল সঠিক",
     "root_word": "الْمُسْتَقِیْمَ",
-    "global_word_sequence_number": 20,
+    "global_word_sequence_number": 25,
+    "global_verse_sequence_number": 6
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 4,
+    "language_code": "bn",
+    "text": "(৬)",
+    "root_word": "۟ۙ",
+    "global_word_sequence_number": 26,
     "global_verse_sequence_number": 6
   },
   {
@@ -290,7 +374,7 @@
     "language_code": "bn",
     "text": "(সেই) পথে",
     "root_word": "صِرَاطَ",
-    "global_word_sequence_number": 21,
+    "global_word_sequence_number": 27,
     "global_verse_sequence_number": 7
   },
   {
@@ -304,7 +388,7 @@
     "language_code": "bn",
     "text": "যাদেরকে",
     "root_word": "الَّذِیْنَ",
-    "global_word_sequence_number": 22,
+    "global_word_sequence_number": 28,
     "global_verse_sequence_number": 7
   },
   {
@@ -318,7 +402,7 @@
     "language_code": "bn",
     "text": "আপনি অনুগ্রহ দান করেছেন",
     "root_word": "اَنْعَمْتَ",
-    "global_word_sequence_number": 23,
+    "global_word_sequence_number": 29,
     "global_verse_sequence_number": 7
   },
   {
@@ -332,7 +416,7 @@
     "language_code": "bn",
     "text": "তাদের উপর",
     "root_word": "عَلَیْهِمْ ۙ۬ۦ",
-    "global_word_sequence_number": 24,
+    "global_word_sequence_number": 30,
     "global_verse_sequence_number": 7
   },
   {
@@ -346,7 +430,7 @@
     "language_code": "bn",
     "text": "নয় (পথ)",
     "root_word": "غَیْرِ",
-    "global_word_sequence_number": 25,
+    "global_word_sequence_number": 31,
     "global_verse_sequence_number": 7
   },
   {
@@ -360,7 +444,7 @@
     "language_code": "bn",
     "text": "অভিশপ্তদের",
     "root_word": "الْمَغْضُوْبِ",
-    "global_word_sequence_number": 26,
+    "global_word_sequence_number": 32,
     "global_verse_sequence_number": 7
   },
   {
@@ -374,7 +458,7 @@
     "language_code": "bn",
     "text": "যাদের উপর (গজব পরেছে)",
     "root_word": "عَلَیْهِمْ",
-    "global_word_sequence_number": 27,
+    "global_word_sequence_number": 33,
     "global_verse_sequence_number": 7
   },
   {
@@ -388,7 +472,7 @@
     "language_code": "bn",
     "text": "এবং না",
     "root_word": "وَلَا",
-    "global_word_sequence_number": 28,
+    "global_word_sequence_number": 34,
     "global_verse_sequence_number": 7
   },
   {
@@ -402,7 +486,21 @@
     "language_code": "bn",
     "text": "পথভ্রষ্টদের",
     "root_word": "الضَّآلِّیْنَ",
-    "global_word_sequence_number": 29,
+    "global_word_sequence_number": 35,
+    "global_verse_sequence_number": 7
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "juz": 1,
+    "hizb": 1,
+    "manzil": 1,
+    "ruku": 1,
+    "word_number_in_verse": 10,
+    "language_code": "bn",
+    "text": "(৭)",
+    "root_word": "۟۠",
+    "global_word_sequence_number": 36,
     "global_verse_sequence_number": 7
   }
 ]
