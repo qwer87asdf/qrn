@@ -3,6 +3,10 @@
   "version": 7,
   "sdk_version": 6,
   "bn": {
+     "reciters": {
+      "url": "reciters.json",
+      "last_update": 1756117615
+    },
     "wbw": [
       1,
       2,
@@ -121,6 +125,10 @@
     ]
   },
   "en": {
+    "reciters": {
+      "url": "reciters.json",
+      "last_update": 1756117615
+    },
     "wbw": [
       1,
       2,
@@ -241,7 +249,7 @@
   "common": {
     "translators": {
       "url": "translators.json",
-      "last_update": 1756105696
+      "last_update": 1756117636
     }
   }
 }

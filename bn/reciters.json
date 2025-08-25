@@ -17,7 +17,7 @@
   { "name": "ফারেস আব্বাদ", "short_code": "FABBAD", "audio_url": "https://everyayah.com/data/Fares_Abbad_64kbps/" },
   { "name": "গামাদি", "short_code": "GHAMADI", "audio_url": "https://everyayah.com/data/Ghamadi_40kbps/" },
   { "name": "হানি রিফাই", "short_code": "HRIFAI", "audio_url": "https://everyayah.com/data/Hani_Rifai_192kbps/" },
-  { "name": "হুযাইফী", "short_code": "HUDHAIFY", "audio_url": "https://everyayah.com/data/Hudhaify_128kbps/" },
+  { "name": "আলী বিন আবদুর রহমান আল হুজায়ফী", "short_code": "HUDHAIFY", "audio_url": "https://everyayah.com/data/Hudhaify_128kbps/" },
   { "name": "আল হুসারি", "short_code": "AHUSARY", "audio_url": "https://everyayah.com/data/Husary_128kbps/" },
   { "name": "আল হুসারি - মুজাওয়াদ", "short_code": "AHMUJWAD", "audio_url": "https://everyayah.com/data/Husary_128kbps_Mujawwad/" },
   { "name": "আল হুসারি - মুয়াল্লিম", "short_code": "AHMUALLIM", "audio_url": "https://everyayah.com/data/Husary_Muallim_128kbps/" },
