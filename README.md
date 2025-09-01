@@ -200,3 +200,8 @@ All API endpoints are assumed to be under the base URL:
 ]
 ```
 **Source:** [Haleem Translation](https://raw.githubusercontent.com/shaf-ioioi/qrn_test/refs/heads/main/common/haleem.json)
+
+**Command to create zip**
+```bash
+tar -czf bn.tar.gz bn
+```

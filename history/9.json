@@ -1,0 +1,23 @@
+{
+  "host": "https://github.com/qwer87asdf/qrn/blob/main",
+  "version": 9,
+  "sdk_version": 5,
+  "bn": {
+    "reciters": {
+      "url": "reciters.json",
+      "last_update": 1756755425
+    }
+  },
+  "en": {
+    "reciters": {
+      "url": "reciters.json",
+      "last_update": 1756755425
+    }
+  },
+  "common": {
+    "translators": {
+      "url": "translators.json",
+      "last_update": 1756755425
+    }
+  }
+}
