@@ -7,7 +7,7 @@
     { "name": "Yusuf Ali", "bio": "Yusuf Ali", "code": "yusufali", "language_code": "en" },
     { "name": "Hilali & Khan", "bio": "Hilali & Khan", "code": "hilalikhan", "language_code": "en" },
     { "name": "তাইসীরুল কোরআন", "bio": "Taisirul Quran", "code": "taisirul", "language_code": "bn"},
-    { "name": "শেখ মুজিবুর রহমান", "bio": "Sheikh Mujibur Rahman", "code": "mujibur", "language_code": "bn"},
+    { "name": "মুজিবুর রহমান", "bio": "Mujibur Rahman", "code": "mujibur", "language_code": "bn"},
     { "name": "ফজলুর রহমান", "bio": "", "code": "fozlur", "language_code": "bn"},
     { "name": "মুহিউদ্দিন খান", "bio": "", "code": "mkhan", "language_code": "bn"},
     { "name": "ইসলামিক ফাউন্ডেশন", "bio": "", "code": "ifa", "language_code": "bn"},
