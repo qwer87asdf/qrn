@@ -12,6 +12,5 @@
     { "name": "মুহিউদ্দিন খান", "bio": "", "code": "mkhan", "language_code": "bn"},
     { "name": "ইসলামিক ফাউন্ডেশন", "bio": "", "code": "ifa", "language_code": "bn"},
     { "name": "মুফতী মুহাম্মাদ তাকী উসমানী", "bio": "", "code": "bntaqi", "language_code": "bn"},
-    { "name": "বায়ান ফাউন্ডেশন", "bio": "", "code": "bayaan", "language_code": "bn"},
-    { "name": "রাওয়াই আল-বায়ান", "bio": "Rawai Al-bayan", "code": "rawai", "language_code": "bn"}
+    { "name": "বায়ান ফাউন্ডেশন", "bio": "", "code": "bayaan", "language_code": "bn"}
 ]
