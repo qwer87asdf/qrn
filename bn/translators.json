@@ -7,9 +7,9 @@
     { "name": "Yusuf Ali", "bio": "Yusuf Ali", "code": "yusufali", "language_code": "en" },
     { "name": "Hilali & Khan", "bio": "Hilali & Khan", "code": "hilalikhan", "language_code": "en" },
     { "name": "তাইসীরুল কোরআন", "bio": "Taisirul Quran", "code": "taisirul", "language_code": "bn"},
-    { "name": "মুজিবুর রহমান", "bio": "Mujibur Rahman", "code": "mujibur", "language_code": "bn"},
-    { "name": "ফজলুর রহমান", "bio": "", "code": "fozlur", "language_code": "bn"},
-    { "name": "মুহিউদ্দিন খান", "bio": "", "code": "mkhan", "language_code": "bn"},
+    { "name": "ড. মুহাম্মদ মুজীবুর রহমান", "bio": "", "code": "mujibur", "language_code": "bn"},
+    { "name": "ড. মুহাম্মদ ফজলুর রহমান", "bio": "", "code": "fozlur", "language_code": "bn"},
+    { "name": "মাওলানা মুহিউদ্দিন খান", "bio": "", "code": "mkhan", "language_code": "bn"},
     { "name": "ইসলামিক ফাউন্ডেশন", "bio": "", "code": "ifa", "language_code": "bn"},
     { "name": "মুফতী মুহাম্মাদ তাকী উসমানী", "bio": "", "code": "bntaqi", "language_code": "bn"},
     { "name": "বায়ান ফাউন্ডেশন", "bio": "", "code": "bayaan", "language_code": "bn"}
