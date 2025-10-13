@@ -3,6 +3,10 @@
   "version": 13,
   "sdk_version": 5,
   "bn": {
+    "chapters": {
+      "url": "chapters.json",
+      "last_update": 1760361006
+    },
     "reciters": {
       "url": "reciters.json",
       "last_update": 1760361006
