@@ -2,7 +2,7 @@
   {
     "serial_number": 1,
     "name": "সূচনা",
-    "transliteration": "আল ফাতিহা",
+    "transliteration": "সূরা আল ফাতিহা",
     "revelation_order": 5,
     "revelation_place": "মক্কা",
     "ayah_count": 7,
@@ -11,7 +11,7 @@
   {
     "serial_number": 2,
     "name": "বকনা-বাছুর-গরু",
-    "transliteration": "আল বাকারা",
+    "transliteration": "সূরা আল বাকারা",
     "revelation_order": 87,
     "revelation_place": "মদীনা",
     "ayah_count": 286,
@@ -20,7 +20,7 @@
   {
     "serial_number": 3,
     "name": "ইমরানের পরিবার",
-    "transliteration": "আল ইমরান",
+    "transliteration": "সূরা আল ইমরান",
     "revelation_order": 89,
     "revelation_place": "মদীনা",
     "ayah_count": 200,
@@ -29,7 +29,7 @@
   {
     "serial_number": 4,
     "name": "মহিলা",
-    "transliteration": "আন নিসা",
+    "transliteration": "সূরা আন নিসা",
     "revelation_order": 92,
     "revelation_place": "মদীনা",
     "ayah_count": 176,
@@ -38,7 +38,7 @@
   {
     "serial_number": 5,
     "name": "খাদ্য পরিবেশিত টেবিল",
-    "transliteration": "আল মায়িদাহ",
+    "transliteration": "সূরা আল মায়িদাহ",
     "revelation_order": 112,
     "revelation_place": "মদীনা",
     "ayah_count": 120,
@@ -47,7 +47,7 @@
   {
     "serial_number": 6,
     "name": "গৃহপালিত পশু",
-    "transliteration": "আল আনআম",
+    "transliteration": "সূরা আল আনআম",
     "revelation_order": 55,
     "revelation_place": "মক্কা",
     "ayah_count": 165,
@@ -56,7 +56,7 @@
   {
     "serial_number": 7,
     "name": "উচু স্থানসমূহ",
-    "transliteration": "আল আরাফ",
+    "transliteration": "সূরা আল আরাফ",
     "revelation_order": 39,
     "revelation_place": "মক্কা",
     "ayah_count": 206,
@@ -65,7 +65,7 @@
   {
     "serial_number": 8,
     "name": "যুদ্ধে-লব্ধ ধনসম্পদ",
-    "transliteration": "আল আনফাল",
+    "transliteration": "সূরা আল আনফাল",
     "revelation_order": 88,
     "revelation_place": "মদীনা",
     "ayah_count": 75,
@@ -74,7 +74,7 @@
   {
     "serial_number": 9,
     "name": "অনুশোচনা",
-    "transliteration": "আত-তাওবাহ্‌",
+    "transliteration": "সূরা আত-তাওবাহ্‌",
     "revelation_order": 113,
     "revelation_place": "মদীনা",
     "ayah_count": 129,
@@ -83,7 +83,7 @@
   {
     "serial_number": 10,
     "name": "নবী ইউনুস",
-    "transliteration": "ইউনুস",
+    "transliteration": "সূরা ইউনুস",
     "revelation_order": 51,
     "revelation_place": "মক্কা",
     "ayah_count": 109,
@@ -92,7 +92,7 @@
   {
     "serial_number": 11,
     "name": "নবী হুদ",
-    "transliteration": "হুদ",
+    "transliteration": "সূরা হুদ",
     "revelation_order": 52,
     "revelation_place": "মক্কা",
     "ayah_count": 123,
@@ -101,7 +101,7 @@
   {
     "serial_number": 12,
     "name": "নবী ইউসুফ",
-    "transliteration": "ইউসুফ",
+    "transliteration": "সূরা ইউসুফ",
     "revelation_order": 53,
     "revelation_place": "মক্কা",
     "ayah_count": 111,
@@ -110,7 +110,7 @@
   {
     "serial_number": 13,
     "name": "বজ্রনাদ",
-    "transliteration": "আর-রাদ",
+    "transliteration": "সূরা আর-রাদ",
     "revelation_order": 96,
     "revelation_place": "মদীনা",
     "ayah_count": 43,
@@ -119,7 +119,7 @@
   {
     "serial_number": 14,
     "name": "নবী ইব্রাহিম",
-    "transliteration": "ইব্রাহীম",
+    "transliteration": "সূরা ইব্রাহীম",
     "revelation_order": 72,
     "revelation_place": "মক্কা",
     "ayah_count": 52,
@@ -128,7 +128,7 @@
   {
     "serial_number": 15,
     "name": "পাথুরে পাহাড়",
-    "transliteration": "সূরা আল হিজর",
+    "transliteration": "সূরা সূরা আল হিজর",
     "revelation_order": 54,
     "revelation_place": "মক্কা",
     "ayah_count": 99,
@@ -137,7 +137,7 @@
   {
     "serial_number": 16,
     "name": "মৌমাছি",
-    "transliteration": "আন নাহল",
+    "transliteration": "সূরা আন নাহল",
     "revelation_order": 70,
     "revelation_place": "মক্কা",
     "ayah_count": 128,
@@ -146,7 +146,7 @@
   {
     "serial_number": 17,
     "name": "ইসরায়েলের সন্তানগণ",
-    "transliteration": "বনী-ইসরাঈল",
+    "transliteration": "সূরা বনী-ইসরাঈল",
     "revelation_order": 50,
     "revelation_place": "মক্কা",
     "ayah_count": 111,
@@ -155,7 +155,7 @@
   {
     "serial_number": 18,
     "name": "গুহা",
-    "transliteration": "আল কাহফ",
+    "transliteration": "সূরা আল কাহফ",
     "revelation_order": 69,
     "revelation_place": "মক্কা",
     "ayah_count": 110,
@@ -164,7 +164,7 @@
   {
     "serial_number": 19,
     "name": "মারিয়াম (নবী ঈসার মা)",
-    "transliteration": "মারইয়াম",
+    "transliteration": "সূরা মারইয়াম",
     "revelation_order": 44,
     "revelation_place": "মক্কা",
     "ayah_count": 98,
@@ -173,7 +173,7 @@
   {
     "serial_number": 20,
     "name": "ত্বোয়া-হা",
-    "transliteration": "ত্বোয়া-হা",
+    "transliteration": "সূরা ত্বোয়া-হা",
     "revelation_order": 45,
     "revelation_place": "মক্কা",
     "ayah_count": 135,
@@ -182,7 +182,7 @@
   {
     "serial_number": 21,
     "name": "নবীগণ",
-    "transliteration": "আল আম্বিয়া",
+    "transliteration": "সূরা আল আম্বিয়া",
     "revelation_order": 73,
     "revelation_place": "মদীনা",
     "ayah_count": 112,
@@ -191,7 +191,7 @@
   {
     "serial_number": 22,
     "name": "হাজ্জ",
-    "transliteration": "আল হাজ্জ্ব",
+    "transliteration": "সূরা আল হাজ্জ্ব",
     "revelation_order": 103,
     "revelation_place": "মদীনা",
     "ayah_count": 78,
@@ -200,7 +200,7 @@
   {
     "serial_number": 23,
     "name": "বিশ্বাসীগণ",
-    "transliteration": "আল মু'মিনূন",
+    "transliteration": "সূরা আল মু'মিনূন",
     "revelation_order": 74,
     "revelation_place": "মদীনা",
     "ayah_count": 118,
@@ -209,7 +209,7 @@
   {
     "serial_number": 24,
     "name": "আলো, জ্যোতি",
-    "transliteration": "আন নূর",
+    "transliteration": "সূরা আন নূর",
     "revelation_order": 102,
     "revelation_place": "মদীনা",
     "ayah_count": 64,
@@ -218,7 +218,7 @@
   {
     "serial_number": 25,
     "name": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
-    "transliteration": "আল ফুরকান",
+    "transliteration": "সূরা আল ফুরকান",
     "revelation_order": 42,
     "revelation_place": "মক্কা",
     "ayah_count": 77,
@@ -227,7 +227,7 @@
   {
     "serial_number": 26,
     "name": "কবিগণ",
-    "transliteration": "আশ শুআরা",
+    "transliteration": "সূরা আশ শুআরা",
     "revelation_order": 47,
     "revelation_place": "মক্কা",
     "ayah_count": 227,
@@ -236,7 +236,7 @@
   {
     "serial_number": 27,
     "name": "পিপীলিকা",
-    "transliteration": "আন নম্‌ল",
+    "transliteration": "সূরা আন নম্‌ল",
     "revelation_order": 48,
     "revelation_place": "মক্কা",
     "ayah_count": 93,
@@ -245,7 +245,7 @@
   {
     "serial_number": 28,
     "name": "ঘটনা, কাহিনী",
-    "transliteration": "আল কাসাস",
+    "transliteration": "সূরা আল কাসাস",
     "revelation_order": 49,
     "revelation_place": "মক্কা",
     "ayah_count": 88,
@@ -254,7 +254,7 @@
   {
     "serial_number": 29,
     "name": "মাকড়সা",
-    "transliteration": "আল আনকাবূত",
+    "transliteration": "সূরা আল আনকাবূত",
     "revelation_order": 85,
     "revelation_place": "মদীনা",
     "ayah_count": 69,
@@ -263,7 +263,7 @@
   {
     "serial_number": 30,
     "name": "রোমান জাতি",
-    "transliteration": "আর রুম",
+    "transliteration": "সূরা আর রুম",
     "revelation_order": 84,
     "revelation_place": "মদীনা",
     "ayah_count": 60,
@@ -272,7 +272,7 @@
   {
     "serial_number": 31,
     "name": "একজন জ্ঞানী ব্যক্তি",
-    "transliteration": "লোক্‌মান",
+    "transliteration": "সূরা লোক্‌মান",
     "revelation_order": 57,
     "revelation_place": "মক্কা",
     "ayah_count": 34,
@@ -281,7 +281,7 @@
   {
     "serial_number": 32,
     "name": "সিজদাহ",
-    "transliteration": "আস সেজদাহ্",
+    "transliteration": "সূরা আস সেজদাহ্",
     "revelation_order": 75,
     "revelation_place": "মদীনা",
     "ayah_count": 30,
@@ -290,7 +290,7 @@
   {
     "serial_number": 33,
     "name": "জোট",
-    "transliteration": "আল আহ্‌যাব",
+    "transliteration": "সূরা আল আহ্‌যাব",
     "revelation_order": 90,
     "revelation_place": "মদীনা",
     "ayah_count": 73,
@@ -299,7 +299,7 @@
   {
     "serial_number": 34,
     "name": "রানী সাবা",
-    "transliteration": "সাবা",
+    "transliteration": "সূরা সাবা",
     "revelation_order": 58,
     "revelation_place": "মক্কা",
     "ayah_count": 54,
@@ -308,7 +308,7 @@
   {
     "serial_number": 35,
     "name": "আদি স্রষ্টা",
-    "transliteration": "ফাতির",
+    "transliteration": "সূরা ফাতির",
     "revelation_order": 43,
     "revelation_place": "মক্কা",
     "ayah_count": 45,
@@ -317,7 +317,7 @@
   {
     "serial_number": 36,
     "name": "ইয়াসীন",
-    "transliteration": "ইয়াসীন",
+    "transliteration": "সূরা ইয়াসীন",
     "revelation_order": 41,
     "revelation_place": "মক্কা",
     "ayah_count": 83,
@@ -326,7 +326,7 @@
   {
     "serial_number": 37,
     "name": "সারিবদ্ধভাবে দাঁড়ানো",
-    "transliteration": "আস ছাফ্‌ফাত",
+    "transliteration": "সূরা আস ছাফ্‌ফাত",
     "revelation_order": 56,
     "revelation_place": "মক্কা",
     "ayah_count": 182,
@@ -335,7 +335,7 @@
   {
     "serial_number": 38,
     "name": "আরবি বর্ণ",
-    "transliteration": "ছোয়াদ",
+    "transliteration": "সূরা ছোয়াদ",
     "revelation_order": 38,
     "revelation_place": "মক্কা",
     "ayah_count": 88,
@@ -344,7 +344,7 @@
   {
     "serial_number": 39,
     "name": "দল-বদ্ধ জনতা",
-    "transliteration": "আয-জুমার",
+    "transliteration": "সূরা আয-জুমার",
     "revelation_order": 59,
     "revelation_place": "মক্কা",
     "ayah_count": 75,
@@ -353,7 +353,7 @@
   {
     "serial_number": 40,
     "name": "বিশ্বাসী",
-    "transliteration": "আল মু'মিন",
+    "transliteration": "সূরা আল মু'মিন",
     "revelation_order": 60,
     "revelation_place": "মক্কা",
     "ayah_count": 85,
@@ -362,7 +362,7 @@
   {
     "serial_number": 41,
     "name": "সুস্পষ্ট বিবরণ",
-    "transliteration": "হা-মীম সেজদাহ্‌",
+    "transliteration": "সূরা হা-মীম সেজদাহ্‌",
     "revelation_order": 61,
     "revelation_place": "মক্কা",
     "ayah_count": 54,
@@ -371,7 +371,7 @@
   {
     "serial_number": 42,
     "name": "পরামর্শ",
-    "transliteration": "আশ্‌-শূরা",
+    "transliteration": "সূরা আশ্‌-শূরা",
     "revelation_order": 62,
     "revelation_place": "মক্কা",
     "ayah_count": 53,
@@ -380,7 +380,7 @@
   {
     "serial_number": 43,
     "name": "সোনাদানা",
-    "transliteration": "আয্‌-যুখরুফ",
+    "transliteration": "সূরা আয্‌-যুখরুফ",
     "revelation_order": 63,
     "revelation_place": "মক্কা",
     "ayah_count": 89,
@@ -389,7 +389,7 @@
   {
     "serial_number": 44,
     "name": "ধোঁয়া",
-    "transliteration": "আদ-দোখান",
+    "transliteration": "সূরা আদ-দোখান",
     "revelation_order": 64,
     "revelation_place": "মক্কা",
     "ayah_count": 59,
@@ -398,7 +398,7 @@
   {
     "serial_number": 45,
     "name": "নতজানু",
-    "transliteration": "আল জাসিয়াহ",
+    "transliteration": "সূরা আল জাসিয়াহ",
     "revelation_order": 65,
     "revelation_place": "মক্কা",
     "ayah_count": 37,
@@ -407,7 +407,7 @@
   {
     "serial_number": 46,
     "name": "বালুর পাহাড়",
-    "transliteration": "আল আহ্‌ক্বাফ",
+    "transliteration": "সূরা আল আহ্‌ক্বাফ",
     "revelation_order": 66,
     "revelation_place": "মক্কা",
     "ayah_count": 35,
@@ -416,7 +416,7 @@
   {
     "serial_number": 47,
     "name": "নবী মুহাম্মদ",
-    "transliteration": "মুহাম্মদ",
+    "transliteration": "সূরা মুহাম্মদ",
     "revelation_order": 95,
     "revelation_place": "মদীনা",
     "ayah_count": 38,
@@ -425,7 +425,7 @@
   {
     "serial_number": 48,
     "name": "বিজয় (মক্কা বিজয়)",
-    "transliteration": "আল ফাত্‌হ",
+    "transliteration": "সূরা আল ফাত্‌হ",
     "revelation_order": 111,
     "revelation_place": "মদীনা",
     "ayah_count": 29,
@@ -434,7 +434,7 @@
   {
     "serial_number": 49,
     "name": "বাসগৃহসমূহ",
-    "transliteration": "আল হুজুরাত",
+    "transliteration": "সূরা আল হুজুরাত",
     "revelation_order": 106,
     "revelation_place": "মদীনা",
     "ayah_count": 18,
@@ -443,7 +443,7 @@
   {
     "serial_number": 50,
     "name": "আরবি বর্ণ ক্বাফ",
-    "transliteration": "ক্বাফ",
+    "transliteration": "সূরা ক্বাফ",
     "revelation_order": 34,
     "revelation_place": "মক্কা",
     "ayah_count": 45,
@@ -452,7 +452,7 @@
   {
     "serial_number": 51,
     "name": "বিক্ষেপকারী বাতাস",
-    "transliteration": "আয-যারিয়াত",
+    "transliteration": "সূরা আয-যারিয়াত",
     "revelation_order": 67,
     "revelation_place": "মক্কা",
     "ayah_count": 60,
@@ -461,7 +461,7 @@
   {
     "serial_number": 52,
     "name": "পাহাড়",
-    "transliteration": "আত্ব তূর",
+    "transliteration": "সূরা আত্ব তূর",
     "revelation_order": 76,
     "revelation_place": "মদীনা",
     "ayah_count": 49,
@@ -470,7 +470,7 @@
   {
     "serial_number": 53,
     "name": "তারা",
-    "transliteration": "আন-নাজম",
+    "transliteration": "সূরা আন-নাজম",
     "revelation_order": 23,
     "revelation_place": "মক্কা",
     "ayah_count": 62,
@@ -479,7 +479,7 @@
   {
     "serial_number": 54,
     "name": "চন্দ্র",
-    "transliteration": "আল ক্বামার",
+    "transliteration": "সূরা আল ক্বামার",
     "revelation_order": 37,
     "revelation_place": "মক্কা",
     "ayah_count": 55,
@@ -488,7 +488,7 @@
   {
     "serial_number": 55,
     "name": "অনন্ত করুণাময়",
-    "transliteration": "আর রাহমান",
+    "transliteration": "সূরা আর রাহমান",
     "revelation_order": 97,
     "revelation_place": "মদীনা",
     "ayah_count": 78,
@@ -497,7 +497,7 @@
   {
     "serial_number": 56,
     "name": "নিশ্চিত ঘটনা",
-    "transliteration": "আল-ওয়াকিয়াহ",
+    "transliteration": "সূরা আল-ওয়াকিয়াহ",
     "revelation_order": 46,
     "revelation_place": "মক্কা",
     "ayah_count": 96,
@@ -506,7 +506,7 @@
   {
     "serial_number": 57,
     "name": "লোহা",
-    "transliteration": "আল-হাদীদ",
+    "transliteration": "সূরা আল-হাদীদ",
     "revelation_order": 94,
     "revelation_place": "মদীনা",
     "ayah_count": 29,
@@ -515,7 +515,7 @@
   {
     "serial_number": 58,
     "name": "অনুযোগকারিণী",
-    "transliteration": "আল-মুজাদালাহ",
+    "transliteration": "সূরা আল-মুজাদালাহ",
     "revelation_order": 105,
     "revelation_place": "মদীনা",
     "ayah_count": 22,
@@ -524,7 +524,7 @@
   {
     "serial_number": 59,
     "name": "সমাবেশ",
-    "transliteration": "আল-হাশর",
+    "transliteration": "সূরা আল-হাশর",
     "revelation_order": 101,
     "revelation_place": "মদীনা",
     "ayah_count": 24,
@@ -533,7 +533,7 @@
   {
     "serial_number": 60,
     "name": "নারী, যাকে পরীক্ষা করা হবে",
-    "transliteration": "আল-মুমতাহিনাহ",
+    "transliteration": "সূরা আল-মুমতাহিনাহ",
     "revelation_order": 91,
     "revelation_place": "মদীনা",
     "ayah_count": 13,
@@ -542,7 +542,7 @@
   {
     "serial_number": 61,
     "name": "সারবন্দী সৈন্যদল",
-    "transliteration": "আস-সাফ",
+    "transliteration": "সূরা আস-সাফ",
     "revelation_order": 109,
     "revelation_place": "মদীনা",
     "ayah_count": 14,
@@ -551,7 +551,7 @@
   {
     "serial_number": 62,
     "name": "সম্মেলন/শুক্রবার",
-    "transliteration": "আল-জুমুআ",
+    "transliteration": "সূরা আল-জুমুআ",
     "revelation_order": 110,
     "revelation_place": "মদীনা",
     "ayah_count": 11,
@@ -560,7 +560,7 @@
   {
     "serial_number": 63,
     "name": "কপট বিশ্বাসীগণ",
-    "transliteration": "আল-মুনাফিকুন",
+    "transliteration": "সূরা আল-মুনাফিকুন",
     "revelation_order": 104,
     "revelation_place": "মদীনা",
     "ayah_count": 11,
@@ -569,7 +569,7 @@
   {
     "serial_number": 64,
     "name": "মোহ অপসারণ",
-    "transliteration": "আত-তাগাবুন",
+    "transliteration": "সূরা আত-তাগাবুন",
     "revelation_order": 108,
     "revelation_place": "মদীনা",
     "ayah_count": 18,
@@ -578,7 +578,7 @@
   {
     "serial_number": 65,
     "name": "তালাক, বন্ধনমুক্তি",
-    "transliteration": "আত-তালাক",
+    "transliteration": "সূরা আত-তালাক",
     "revelation_order": 99,
     "revelation_place": "মদীনা",
     "ayah_count": 12,
@@ -587,7 +587,7 @@
   {
     "serial_number": 66,
     "name": "নিষিদ্ধকরণ",
-    "transliteration": "আত-তাহরীম",
+    "transliteration": "সূরা আত-তাহরীম",
     "revelation_order": 107,
     "revelation_place": "মদীনা",
     "ayah_count": 12,
@@ -596,7 +596,7 @@
   {
     "serial_number": 67,
     "name": "সার্বভৌম কর্তৃত্ব",
-    "transliteration": "আল-মুলক",
+    "transliteration": "সূরা আল-মুলক",
     "revelation_order": 77,
     "revelation_place": "মক্কা",
     "ayah_count": 30,
@@ -605,7 +605,7 @@
   {
     "serial_number": 68,
     "name": "কলম",
-    "transliteration": "আল-কলম",
+    "transliteration": "সূরা আল-কলম",
     "revelation_order": 2,
     "revelation_place": "মক্কা",
     "ayah_count": 52,
@@ -614,7 +614,7 @@
   {
     "serial_number": 69,
     "name": "নিশ্চিত সত্য",
-    "transliteration": "আল-হাক্কাহ",
+    "transliteration": "সূরা আল-হাক্কাহ",
     "revelation_order": 78,
     "revelation_place": "মক্কা",
     "ayah_count": 52,
@@ -623,7 +623,7 @@
   {
     "serial_number": 70,
     "name": "উন্নয়নের সোপান",
-    "transliteration": "আল-মাআরিজ",
+    "transliteration": "সূরা আল-মাআরিজ",
     "revelation_order": 79,
     "revelation_place": "মক্কা",
     "ayah_count": 44,
@@ -632,7 +632,7 @@
   {
     "serial_number": 71,
     "name": "নবী নূহ",
-    "transliteration": "নূহ",
+    "transliteration": "সূরা নূহ",
     "revelation_order": 71,
     "revelation_place": "মক্কা",
     "ayah_count": 28,
@@ -641,7 +641,7 @@
   {
     "serial_number": 72,
     "name": "জ্বিন সম্প্রদায়",
-    "transliteration": "আল জ্বিন",
+    "transliteration": "সূরা আল জ্বিন",
     "revelation_order": 40,
     "revelation_place": "মক্কা",
     "ayah_count": 28,
@@ -650,7 +650,7 @@
   {
     "serial_number": 73,
     "name": "বস্ত্র আচ্ছাদনকারী",
-    "transliteration": "আল মুজাম্মিল",
+    "transliteration": "সূরা আল মুজাম্মিল",
     "revelation_order": 3,
     "revelation_place": "মক্কা",
     "ayah_count": 20,
@@ -659,7 +659,7 @@
   {
     "serial_number": 74,
     "name": "পোশাক পরিহিত",
-    "transliteration": "আল মুদ্দাস্সির",
+    "transliteration": "সূরা আল মুদ্দাস্সির",
     "revelation_order": 4,
     "revelation_place": "মক্কা",
     "ayah_count": 56,
@@ -668,7 +668,7 @@
   {
     "serial_number": 75,
     "name": "পুনরুত্থান",
-    "transliteration": "আল-ক্বিয়ামাহ",
+    "transliteration": "সূরা আল-ক্বিয়ামাহ",
     "revelation_order": 31,
     "revelation_place": "মক্কা",
     "ayah_count": 40,
@@ -677,7 +677,7 @@
   {
     "serial_number": 76,
     "name": "মানুষ",
-    "transliteration": "আদ-দাহর",
+    "transliteration": "সূরা আদ-দাহর",
     "revelation_order": 98,
     "revelation_place": "মদীনা",
     "ayah_count": 31,
@@ -686,7 +686,7 @@
   {
     "serial_number": 77,
     "name": "প্রেরিত পুরুষবৃন্দ",
-    "transliteration": "আল-মুরসালাত",
+    "transliteration": "সূরা আল-মুরসালাত",
     "revelation_order": 33,
     "revelation_place": "মক্কা",
     "ayah_count": 50,
@@ -695,7 +695,7 @@
   {
     "serial_number": 78,
     "name": "মহাসংবাদ",
-    "transliteration": "আন নাবা",
+    "transliteration": "সূরা আন নাবা",
     "revelation_order": 80,
     "revelation_place": "মক্কা",
     "ayah_count": 40,
@@ -704,7 +704,7 @@
   {
     "serial_number": 79,
     "name": "প্রচেষ্টাকারী",
-    "transliteration": "আন নাযিয়াত",
+    "transliteration": "সূরা আন নাযিয়াত",
     "revelation_order": 81,
     "revelation_place": "মক্কা",
     "ayah_count": 46,
@@ -713,7 +713,7 @@
   {
     "serial_number": 80,
     "name": "তিনি ভ্রুকুটি করলেন",
-    "transliteration": "আবাসা",
+    "transliteration": "সূরা আবাসা",
     "revelation_order": 24,
     "revelation_place": "মক্কা",
     "ayah_count": 42,
@@ -722,7 +722,7 @@
   {
     "serial_number": 81,
     "name": "অন্ধকারাচ্ছন্ন",
-    "transliteration": "আত-তাকভীর",
+    "transliteration": "সূরা আত-তাকভীর",
     "revelation_order": 7,
     "revelation_place": "মক্কা",
     "ayah_count": 29,
@@ -731,7 +731,7 @@
   {
     "serial_number": 82,
     "name": "বিদীর্ণ করা",
-    "transliteration": "আল-ইনফিতার",
+    "transliteration": "সূরা আল-ইনফিতার",
     "revelation_order": 82,
     "revelation_place": "মক্কা",
     "ayah_count": 19,
@@ -740,7 +740,7 @@
   {
     "serial_number": 83,
     "name": "প্রতারকগণ",
-    "transliteration": "আত মুত্বাফ্‌ফিফীন",
+    "transliteration": "সূরা আত মুত্বাফ্‌ফিফীন",
     "revelation_order": 86,
     "revelation_place": "মক্কা",
     "ayah_count": 36,
@@ -749,7 +749,7 @@
   {
     "serial_number": 84,
     "name": "খন্ড-বিখন্ড করণ",
-    "transliteration": "আল ইন‌শিকাক",
+    "transliteration": "সূরা আল ইন‌শিকাক",
     "revelation_order": 83,
     "revelation_place": "মক্কা",
     "ayah_count": 25,
@@ -758,7 +758,7 @@
   {
     "serial_number": 85,
     "name": "নক্ষত্রপুঞ্জ",
-    "transliteration": "আল-বুরুজ",
+    "transliteration": "সূরা আল-বুরুজ",
     "revelation_order": 27,
     "revelation_place": "মক্কা",
     "ayah_count": 22,
@@ -767,7 +767,7 @@
   {
     "serial_number": 86,
     "name": "রাতের আগন্তুক",
-    "transliteration": "আত-তারিক্ব",
+    "transliteration": "সূরা আত-তারিক্ব",
     "revelation_order": 36,
     "revelation_place": "মক্কা",
     "ayah_count": 17,
@@ -776,7 +776,7 @@
   {
     "serial_number": 87,
     "name": "সর্বোর্ধ্ব",
-    "transliteration": "আল আ'লা",
+    "transliteration": "সূরা আল আ'লা",
     "revelation_order": 8,
     "revelation_place": "মক্কা",
     "ayah_count": 19,
@@ -785,7 +785,7 @@
   {
     "serial_number": 88,
     "name": "বিহ্বলকর ঘটনা",
-    "transliteration": "আল গাশিয়াহ্‌",
+    "transliteration": "সূরা আল গাশিয়াহ্‌",
     "revelation_order": 68,
     "revelation_place": "মক্কা",
     "ayah_count": 26,
@@ -794,7 +794,7 @@
   {
     "serial_number": 89,
     "name": "ভোরবেলা",
-    "transliteration": "আল ফাজ্‌র",
+    "transliteration": "সূরা আল ফাজ্‌র",
     "revelation_order": 10,
     "revelation_place": "মক্কা",
     "ayah_count": 30,
@@ -803,7 +803,7 @@
   {
     "serial_number": 90,
     "name": "নগর",
-    "transliteration": "আল বালাদ",
+    "transliteration": "সূরা আল বালাদ",
     "revelation_order": 35,
     "revelation_place": "মক্কা",
     "ayah_count": 20,
@@ -812,7 +812,7 @@
   {
     "serial_number": 91,
     "name": "সূর্য্য",
-    "transliteration": "আশ-শাম্‌স",
+    "transliteration": "সূরা আশ-শাম্‌স",
     "revelation_order": 26,
     "revelation_place": "মক্কা",
     "ayah_count": 15,
@@ -821,7 +821,7 @@
   {
     "serial_number": 92,
     "name": "রাত্রি",
-    "transliteration": "আল লাইল",
+    "transliteration": "সূরা আল লাইল",
     "revelation_order": 9,
     "revelation_place": "মক্কা",
     "ayah_count": 21,
@@ -830,7 +830,7 @@
   {
     "serial_number": 93,
     "name": "পূর্বাহ্নের সূর্যকিরণ",
-    "transliteration": "আদ-দুহা",
+    "transliteration": "সূরা আদ-দুহা",
     "revelation_order": 11,
     "revelation_place": "মক্কা",
     "ayah_count": 11,
@@ -839,7 +839,7 @@
   {
     "serial_number": 94,
     "name": "বক্ষ প্রশস্তকরণ",
-    "transliteration": "আল ইনশিরাহ",
+    "transliteration": "সূরা আল ইনশিরাহ",
     "revelation_order": 12,
     "revelation_place": "মক্কা",
     "ayah_count": 8,
@@ -848,7 +848,7 @@
   {
     "serial_number": 95,
     "name": "ডুমুর",
-    "transliteration": "ত্বীন",
+    "transliteration": "সূরা ত্বীন",
     "revelation_order": 28,
     "revelation_place": "মক্কা",
     "ayah_count": 8,
@@ -857,7 +857,7 @@
   {
     "serial_number": 96,
     "name": "রক্তপিন্ড",
-    "transliteration": "আলাক্ব",
+    "transliteration": "সূরা আলাক্ব",
     "revelation_order": 1,
     "revelation_place": "মক্কা",
     "ayah_count": 19,
@@ -866,7 +866,7 @@
   {
     "serial_number": 97,
     "name": "পরিমাণ",
-    "transliteration": "ক্বদর",
+    "transliteration": "সূরা ক্বদর",
     "revelation_order": 25,
     "revelation_place": "মক্কা",
     "ayah_count": 5,
@@ -875,7 +875,7 @@
   {
     "serial_number": 98,
     "name": "সুস্পষ্ট প্রমাণ",
-    "transliteration": "বাইয়্যিনাহ",
+    "transliteration": "সূরা বাইয়্যিনাহ",
     "revelation_order": 100,
     "revelation_place": "মদীনা",
     "ayah_count": 8,
@@ -884,7 +884,7 @@
   {
     "serial_number": 99,
     "name": "ভূমিকম্প",
-    "transliteration": "যিলযাল",
+    "transliteration": "সূরা যিলযাল",
     "revelation_order": 93,
     "revelation_place": "মদীনা",
     "ayah_count": 8,
@@ -893,7 +893,7 @@
   {
     "serial_number": 100,
     "name": "অভিযানকারী",
-    "transliteration": "আল-আদিয়াত",
+    "transliteration": "সূরা আল-আদিয়াত",
     "revelation_order": 14,
     "revelation_place": "মক্কা",
     "ayah_count": 11,
@@ -902,7 +902,7 @@
   {
     "serial_number": 101,
     "name": "মহাসংকট",
-    "transliteration": "ক্বারিয়াহ",
+    "transliteration": "সূরা ক্বারিয়াহ",
     "revelation_order": 30,
     "revelation_place": "মক্কা",
     "ayah_count": 11,
@@ -911,7 +911,7 @@
   {
     "serial_number": 102,
     "name": "প্রাচুর্যের প্রতিযোগিতা",
-    "transliteration": "তাকাসুর",
+    "transliteration": "সূরা তাকাসুর",
     "revelation_order": 16,
     "revelation_place": "মক্কা",
     "ayah_count": 8,
@@ -920,7 +920,7 @@
   {
     "serial_number": 103,
     "name": "অপরাহ্ন",
-    "transliteration": "আছর",
+    "transliteration": "সূরা আছর",
     "revelation_order": 13,
     "revelation_place": "মক্কা",
     "ayah_count": 3,
@@ -929,7 +929,7 @@
   {
     "serial_number": 104,
     "name": "পরনিন্দাকারী",
-    "transliteration": "হুমাযাহ",
+    "transliteration": "সূরা হুমাযাহ",
     "revelation_order": 32,
     "revelation_place": "মক্কা",
     "ayah_count": 9,
@@ -938,7 +938,7 @@
   {
     "serial_number": 105,
     "name": "হাতি",
-    "transliteration": "ফীল",
+    "transliteration": "সূরা ফীল",
     "revelation_order": 19,
     "revelation_place": "মক্কা",
     "ayah_count": 5,
@@ -947,7 +947,7 @@
   {
     "serial_number": 106,
     "name": "কুরাইশ গোত্র",
-    "transliteration": "কুরাইশ",
+    "transliteration": "সূরা কুরাইশ",
     "revelation_order": 29,
     "revelation_place": "মক্কা",
     "ayah_count": 4,
@@ -956,7 +956,7 @@
   {
     "serial_number": 107,
     "name": "সাহায্য-সহায়তা",
-    "transliteration": "মাউন",
+    "transliteration": "সূরা মাউন",
     "revelation_order": 17,
     "revelation_place": "মক্কা",
     "ayah_count": 7,
@@ -965,7 +965,7 @@
   {
     "serial_number": 108,
     "name": "প্রাচুর্য",
-    "transliteration": "কাওসার",
+    "transliteration": "সূরা কাওসার",
     "revelation_order": 15,
     "revelation_place": "মক্কা",
     "ayah_count": 3,
@@ -974,7 +974,7 @@
   {
     "serial_number": 109,
     "name": "অস্বীকারকারীগণ",
-    "transliteration": "কাফিরুন",
+    "transliteration": "সূরা কাফিরুন",
     "revelation_order": 18,
     "revelation_place": "মক্কা",
     "ayah_count": 6,
@@ -983,7 +983,7 @@
   {
     "serial_number": 110,
     "name": "বিজয়,সাহায্য",
-    "transliteration": "নাসর",
+    "transliteration": "সূরা নাসর",
     "revelation_order": 114,
     "revelation_place": "মদীনা",
     "ayah_count": 3,
@@ -992,7 +992,7 @@
   {
     "serial_number": 111,
     "name": "জ্বলন্ত অঙ্গার",
-    "transliteration": "লাহাব",
+    "transliteration": "সূরা লাহাব",
     "revelation_order": 6,
     "revelation_place": "মক্কা",
     "ayah_count": 5,
@@ -1001,7 +1001,7 @@
   {
     "serial_number": 112,
     "name": "একনিষ্ঠতা",
-    "transliteration": "আল-ইখলাস",
+    "transliteration": "সূরা আল-ইখলাস",
     "revelation_order": 22,
     "revelation_place": "মক্কা",
     "ayah_count": 4,
@@ -1010,7 +1010,7 @@
   {
     "serial_number": 113,
     "name": "নিশিভোর",
-    "transliteration": "আল-ফালাক",
+    "transliteration": "সূরা আল-ফালাক",
     "revelation_order": 20,
     "revelation_place": "মক্কা",
     "ayah_count": 5,
@@ -1019,7 +1019,7 @@
   {
     "serial_number": 114,
     "name": "মানবজাতি",
-    "transliteration": "আন-নাস",
+    "transliteration": "সূরা আন-নাস",
     "revelation_order": 21,
     "revelation_place": "মক্কা",
     "ayah_count": 6,
