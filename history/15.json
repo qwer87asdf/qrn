@@ -15,6 +15,10 @@
   "common": {
     "glyphs": [
       1
-    ]
+    ],
+    "mushafs": {
+      "url": "mushafs.json",
+      "last_update": 1761620400
+    }
   }
 }
