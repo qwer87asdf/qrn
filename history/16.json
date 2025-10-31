@@ -1,0 +1,11 @@
+{
+  "host": "https://github.com/qwer87asdf/qrn/blob/main",
+  "version": 16,
+  "sdk_version": 6,
+  "bn": {
+    "chapters": {
+      "url": "chapters.json",
+      "last_update": 1761885821
+    }
+  }
+}
