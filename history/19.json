@@ -1,0 +1,23 @@
+{
+  "host": "https://github.com/qwer87asdf/qrn/blob/main",
+  "version": 19,
+  "sdk_version": 12,
+  "bn": {
+    "wbw": [
+      1
+    ],
+    "mushafs": {
+      "url": "mushafs.json",
+      "last_update": 1762859189
+    }
+  },
+  "en": {
+    "wbw": [
+      1
+    ],
+    "mushafs": {
+      "url": "mushafs.json",
+      "last_update": 1762859189
+    }
+  }
+}
