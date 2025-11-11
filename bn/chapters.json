@@ -4,7 +4,7 @@
     "name": "সূচনা",
     "transliteration": "সূরা আল ফাতিহা",
     "revelation_order": 5,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 7,
     "juz_start": 1
   },
@@ -49,7 +49,7 @@
     "name": "গৃহপালিত পশু",
     "transliteration": "সূরা আল আনআম",
     "revelation_order": 55,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 165,
     "juz_start": 7
   },
@@ -58,7 +58,7 @@
     "name": "উচু স্থানসমূহ",
     "transliteration": "সূরা আল আরাফ",
     "revelation_order": 39,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 206,
     "juz_start": 8
   },
@@ -85,7 +85,7 @@
     "name": "নবী ইউনুস",
     "transliteration": "সূরা ইউনুস",
     "revelation_order": 51,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 109,
     "juz_start": 11
   },
@@ -94,7 +94,7 @@
     "name": "নবী হুদ",
     "transliteration": "সূরা হুদ",
     "revelation_order": 52,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 123,
     "juz_start": 11
   },
@@ -103,7 +103,7 @@
     "name": "নবী ইউসুফ",
     "transliteration": "সূরা ইউসুফ",
     "revelation_order": 53,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 111,
     "juz_start": 12
   },
@@ -121,7 +121,7 @@
     "name": "নবী ইব্রাহিম",
     "transliteration": "সূরা ইব্রাহীম",
     "revelation_order": 72,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 52,
     "juz_start": 13
   },
@@ -130,7 +130,7 @@
     "name": "পাথুরে পাহাড়",
     "transliteration": "সূরা সূরা আল হিজর",
     "revelation_order": 54,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 99,
     "juz_start": 14
   },
@@ -139,7 +139,7 @@
     "name": "মৌমাছি",
     "transliteration": "সূরা আন নাহল",
     "revelation_order": 70,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 128,
     "juz_start": 14
   },
@@ -148,7 +148,7 @@
     "name": "ইসরায়েলের সন্তানগণ",
     "transliteration": "সূরা বনী-ইসরাঈল",
     "revelation_order": 50,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 111,
     "juz_start": 15
   },
@@ -157,7 +157,7 @@
     "name": "গুহা",
     "transliteration": "সূরা আল কাহফ",
     "revelation_order": 69,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 110,
     "juz_start": 15
   },
@@ -166,7 +166,7 @@
     "name": "মারিয়াম (নবী ঈসার মা)",
     "transliteration": "সূরা মারইয়াম",
     "revelation_order": 44,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 98,
     "juz_start": 16
   },
@@ -175,7 +175,7 @@
     "name": "ত্বোয়া-হা",
     "transliteration": "সূরা ত্বোয়া-হা",
     "revelation_order": 45,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 135,
     "juz_start": 16
   },
@@ -202,7 +202,7 @@
     "name": "বিশ্বাসীগণ",
     "transliteration": "সূরা আল মু'মিনূন",
     "revelation_order": 74,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 118,
     "juz_start": 18
   },
@@ -220,7 +220,7 @@
     "name": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
     "transliteration": "সূরা আল ফুরকান",
     "revelation_order": 42,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 77,
     "juz_start": 19
   },
@@ -229,7 +229,7 @@
     "name": "কবিগণ",
     "transliteration": "সূরা আশ শুআরা",
     "revelation_order": 47,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 227,
     "juz_start": 19
   },
@@ -238,7 +238,7 @@
     "name": "পিপীলিকা",
     "transliteration": "সূরা আন নম্‌ল",
     "revelation_order": 48,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 93,
     "juz_start": 20
   },
@@ -247,7 +247,7 @@
     "name": "ঘটনা, কাহিনী",
     "transliteration": "সূরা আল কাসাস",
     "revelation_order": 49,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 88,
     "juz_start": 20
   },
@@ -274,7 +274,7 @@
     "name": "একজন জ্ঞানী ব্যক্তি",
     "transliteration": "সূরা লোক্‌মান",
     "revelation_order": 57,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 34,
     "juz_start": 21
   },
@@ -301,7 +301,7 @@
     "name": "রানী সাবা",
     "transliteration": "সূরা সাবা",
     "revelation_order": 58,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 54,
     "juz_start": 22
   },
@@ -310,7 +310,7 @@
     "name": "আদি স্রষ্টা",
     "transliteration": "সূরা ফাতির",
     "revelation_order": 43,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 45,
     "juz_start": 22
   },
@@ -319,7 +319,7 @@
     "name": "ইয়াসীন",
     "transliteration": "সূরা ইয়াসীন",
     "revelation_order": 41,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 83,
     "juz_start": 22
   },
@@ -328,7 +328,7 @@
     "name": "সারিবদ্ধভাবে দাঁড়ানো",
     "transliteration": "সূরা আস ছাফ্‌ফাত",
     "revelation_order": 56,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 182,
     "juz_start": 23
   },
@@ -337,7 +337,7 @@
     "name": "আরবি বর্ণ",
     "transliteration": "সূরা ছোয়াদ",
     "revelation_order": 38,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 88,
     "juz_start": 23
   },
@@ -346,7 +346,7 @@
     "name": "দল-বদ্ধ জনতা",
     "transliteration": "সূরা আয-জুমার",
     "revelation_order": 59,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 75,
     "juz_start": 23
   },
@@ -355,7 +355,7 @@
     "name": "বিশ্বাসী",
     "transliteration": "সূরা আল মু'মিন",
     "revelation_order": 60,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 85,
     "juz_start": 24
   },
@@ -364,7 +364,7 @@
     "name": "সুস্পষ্ট বিবরণ",
     "transliteration": "সূরা হা-মীম সেজদাহ্‌",
     "revelation_order": 61,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 54,
     "juz_start": 24
   },
@@ -373,7 +373,7 @@
     "name": "পরামর্শ",
     "transliteration": "সূরা আশ্‌-শূরা",
     "revelation_order": 62,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 53,
     "juz_start": 25
   },
@@ -382,7 +382,7 @@
     "name": "সোনাদানা",
     "transliteration": "সূরা আয্‌-যুখরুফ",
     "revelation_order": 63,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 89,
     "juz_start": 25
   },
@@ -391,7 +391,7 @@
     "name": "ধোঁয়া",
     "transliteration": "সূরা আদ-দোখান",
     "revelation_order": 64,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 59,
     "juz_start": 25
   },
@@ -400,7 +400,7 @@
     "name": "নতজানু",
     "transliteration": "সূরা আল জাসিয়াহ",
     "revelation_order": 65,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 37,
     "juz_start": 25
   },
@@ -409,7 +409,7 @@
     "name": "বালুর পাহাড়",
     "transliteration": "সূরা আল আহ্‌ক্বাফ",
     "revelation_order": 66,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 35,
     "juz_start": 26
   },
@@ -424,7 +424,7 @@
   },
   {
     "serial_number": 48,
-    "name": "বিজয় (মক্কা বিজয়)",
+    "name": "বিজয় (Meccan বিজয়)",
     "transliteration": "সূরা আল ফাত্‌হ",
     "revelation_order": 111,
     "revelation_place": "মদীনা",
@@ -445,7 +445,7 @@
     "name": "আরবি বর্ণ ক্বাফ",
     "transliteration": "সূরা ক্বাফ",
     "revelation_order": 34,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 45,
     "juz_start": 26
   },
@@ -454,7 +454,7 @@
     "name": "বিক্ষেপকারী বাতাস",
     "transliteration": "সূরা আয-যারিয়াত",
     "revelation_order": 67,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 60,
     "juz_start": 26
   },
@@ -472,7 +472,7 @@
     "name": "তারা",
     "transliteration": "সূরা আন-নাজম",
     "revelation_order": 23,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 62,
     "juz_start": 27
   },
@@ -481,7 +481,7 @@
     "name": "চন্দ্র",
     "transliteration": "সূরা আল ক্বামার",
     "revelation_order": 37,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 55,
     "juz_start": 27
   },
@@ -499,7 +499,7 @@
     "name": "নিশ্চিত ঘটনা",
     "transliteration": "সূরা আল-ওয়াকিয়াহ",
     "revelation_order": 46,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 96,
     "juz_start": 27
   },
@@ -598,7 +598,7 @@
     "name": "সার্বভৌম কর্তৃত্ব",
     "transliteration": "সূরা আল-মুলক",
     "revelation_order": 77,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 30,
     "juz_start": 29
   },
@@ -607,7 +607,7 @@
     "name": "কলম",
     "transliteration": "সূরা আল-কলম",
     "revelation_order": 2,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 52,
     "juz_start": 29
   },
@@ -616,7 +616,7 @@
     "name": "নিশ্চিত সত্য",
     "transliteration": "সূরা আল-হাক্কাহ",
     "revelation_order": 78,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 52,
     "juz_start": 29
   },
@@ -625,7 +625,7 @@
     "name": "উন্নয়নের সোপান",
     "transliteration": "সূরা আল-মাআরিজ",
     "revelation_order": 79,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 44,
     "juz_start": 29
   },
@@ -634,7 +634,7 @@
     "name": "নবী নূহ",
     "transliteration": "সূরা নূহ",
     "revelation_order": 71,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 28,
     "juz_start": 29
   },
@@ -643,7 +643,7 @@
     "name": "জ্বিন সম্প্রদায়",
     "transliteration": "সূরা আল জ্বিন",
     "revelation_order": 40,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 28,
     "juz_start": 29
   },
@@ -652,7 +652,7 @@
     "name": "বস্ত্র আচ্ছাদনকারী",
     "transliteration": "সূরা আল মুজাম্মিল",
     "revelation_order": 3,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 20,
     "juz_start": 29
   },
@@ -661,7 +661,7 @@
     "name": "পোশাক পরিহিত",
     "transliteration": "সূরা আল মুদ্দাস্সির",
     "revelation_order": 4,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 56,
     "juz_start": 29
   },
@@ -670,7 +670,7 @@
     "name": "পুনরুত্থান",
     "transliteration": "সূরা আল-ক্বিয়ামাহ",
     "revelation_order": 31,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 40,
     "juz_start": 29
   },
@@ -688,7 +688,7 @@
     "name": "প্রেরিত পুরুষবৃন্দ",
     "transliteration": "সূরা আল-মুরসালাত",
     "revelation_order": 33,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 50,
     "juz_start": 29
   },
@@ -697,7 +697,7 @@
     "name": "মহাসংবাদ",
     "transliteration": "সূরা আন নাবা",
     "revelation_order": 80,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 40,
     "juz_start": 30
   },
@@ -706,7 +706,7 @@
     "name": "প্রচেষ্টাকারী",
     "transliteration": "সূরা আন নাযিয়াত",
     "revelation_order": 81,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 46,
     "juz_start": 30
   },
@@ -715,7 +715,7 @@
     "name": "তিনি ভ্রুকুটি করলেন",
     "transliteration": "সূরা আবাসা",
     "revelation_order": 24,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 42,
     "juz_start": 30
   },
@@ -724,7 +724,7 @@
     "name": "অন্ধকারাচ্ছন্ন",
     "transliteration": "সূরা আত-তাকভীর",
     "revelation_order": 7,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 29,
     "juz_start": 30
   },
@@ -733,7 +733,7 @@
     "name": "বিদীর্ণ করা",
     "transliteration": "সূরা আল-ইনফিতার",
     "revelation_order": 82,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 19,
     "juz_start": 30
   },
@@ -742,7 +742,7 @@
     "name": "প্রতারকগণ",
     "transliteration": "সূরা আত মুত্বাফ্‌ফিফীন",
     "revelation_order": 86,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 36,
     "juz_start": 30
   },
@@ -751,7 +751,7 @@
     "name": "খন্ড-বিখন্ড করণ",
     "transliteration": "সূরা আল ইন‌শিকাক",
     "revelation_order": 83,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 25,
     "juz_start": 30
   },
@@ -760,7 +760,7 @@
     "name": "নক্ষত্রপুঞ্জ",
     "transliteration": "সূরা আল-বুরুজ",
     "revelation_order": 27,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 22,
     "juz_start": 30
   },
@@ -769,7 +769,7 @@
     "name": "রাতের আগন্তুক",
     "transliteration": "সূরা আত-তারিক্ব",
     "revelation_order": 36,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 17,
     "juz_start": 30
   },
@@ -778,7 +778,7 @@
     "name": "সর্বোর্ধ্ব",
     "transliteration": "সূরা আল আ'লা",
     "revelation_order": 8,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 19,
     "juz_start": 30
   },
@@ -787,7 +787,7 @@
     "name": "বিহ্বলকর ঘটনা",
     "transliteration": "সূরা আল গাশিয়াহ্‌",
     "revelation_order": 68,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 26,
     "juz_start": 30
   },
@@ -796,7 +796,7 @@
     "name": "ভোরবেলা",
     "transliteration": "সূরা আল ফাজ্‌র",
     "revelation_order": 10,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 30,
     "juz_start": 30
   },
@@ -805,7 +805,7 @@
     "name": "নগর",
     "transliteration": "সূরা আল বালাদ",
     "revelation_order": 35,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 20,
     "juz_start": 30
   },
@@ -814,7 +814,7 @@
     "name": "সূর্য্য",
     "transliteration": "সূরা আশ-শাম্‌স",
     "revelation_order": 26,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 15,
     "juz_start": 30
   },
@@ -823,7 +823,7 @@
     "name": "রাত্রি",
     "transliteration": "সূরা আল লাইল",
     "revelation_order": 9,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 21,
     "juz_start": 30
   },
@@ -832,7 +832,7 @@
     "name": "পূর্বাহ্নের সূর্যকিরণ",
     "transliteration": "সূরা আদ-দুহা",
     "revelation_order": 11,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 11,
     "juz_start": 30
   },
@@ -841,7 +841,7 @@
     "name": "বক্ষ প্রশস্তকরণ",
     "transliteration": "সূরা আল ইনশিরাহ",
     "revelation_order": 12,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 8,
     "juz_start": 30
   },
@@ -850,7 +850,7 @@
     "name": "ডুমুর",
     "transliteration": "সূরা ত্বীন",
     "revelation_order": 28,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 8,
     "juz_start": 30
   },
@@ -859,7 +859,7 @@
     "name": "রক্তপিন্ড",
     "transliteration": "সূরা আলাক্ব",
     "revelation_order": 1,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 19,
     "juz_start": 30
   },
@@ -868,7 +868,7 @@
     "name": "পরিমাণ",
     "transliteration": "সূরা ক্বদর",
     "revelation_order": 25,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 5,
     "juz_start": 30
   },
@@ -895,7 +895,7 @@
     "name": "অভিযানকারী",
     "transliteration": "সূরা আল-আদিয়াত",
     "revelation_order": 14,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 11,
     "juz_start": 30
   },
@@ -904,7 +904,7 @@
     "name": "মহাসংকট",
     "transliteration": "সূরা ক্বারিয়াহ",
     "revelation_order": 30,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 11,
     "juz_start": 30
   },
@@ -913,7 +913,7 @@
     "name": "প্রাচুর্যের প্রতিযোগিতা",
     "transliteration": "সূরা তাকাসুর",
     "revelation_order": 16,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 8,
     "juz_start": 30
   },
@@ -922,7 +922,7 @@
     "name": "অপরাহ্ন",
     "transliteration": "সূরা আছর",
     "revelation_order": 13,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 3,
     "juz_start": 30
   },
@@ -931,7 +931,7 @@
     "name": "পরনিন্দাকারী",
     "transliteration": "সূরা হুমাযাহ",
     "revelation_order": 32,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 9,
     "juz_start": 30
   },
@@ -940,7 +940,7 @@
     "name": "হাতি",
     "transliteration": "সূরা ফীল",
     "revelation_order": 19,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 5,
     "juz_start": 30
   },
@@ -949,7 +949,7 @@
     "name": "কুরাইশ গোত্র",
     "transliteration": "সূরা কুরাইশ",
     "revelation_order": 29,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 4,
     "juz_start": 30
   },
@@ -958,7 +958,7 @@
     "name": "সাহায্য-সহায়তা",
     "transliteration": "সূরা মাউন",
     "revelation_order": 17,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 7,
     "juz_start": 30
   },
@@ -967,7 +967,7 @@
     "name": "প্রাচুর্য",
     "transliteration": "সূরা কাওসার",
     "revelation_order": 15,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 3,
     "juz_start": 30
   },
@@ -976,7 +976,7 @@
     "name": "অস্বীকারকারীগণ",
     "transliteration": "সূরা কাফিরুন",
     "revelation_order": 18,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 6,
     "juz_start": 30
   },
@@ -994,7 +994,7 @@
     "name": "জ্বলন্ত অঙ্গার",
     "transliteration": "সূরা লাহাব",
     "revelation_order": 6,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 5,
     "juz_start": 30
   },
@@ -1003,7 +1003,7 @@
     "name": "একনিষ্ঠতা",
     "transliteration": "সূরা আল-ইখলাস",
     "revelation_order": 22,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 4,
     "juz_start": 30
   },
@@ -1012,7 +1012,7 @@
     "name": "নিশিভোর",
     "transliteration": "সূরা আল-ফালাক",
     "revelation_order": 20,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 5,
     "juz_start": 30
   },
@@ -1021,7 +1021,7 @@
     "name": "মানবজাতি",
     "transliteration": "সূরা আন-নাস",
     "revelation_order": 21,
-    "revelation_place": "মক্কা",
+    "revelation_place": "Meccan",
     "ayah_count": 6,
     "juz_start": 30
   }
