@@ -3584,6 +3584,22 @@
     "confidence": 0.9595013856887816
   },
   {
+    "page_number": 586,
+    "line_number": 1,
+    "sura_number": 78,
+    "ayah_number": 1,
+    "part_number": 1,
+    "x1": 390,
+    "x2": 579,
+    "y1": 179,
+    "y2": 237,
+    "width": 287,
+    "height": 97,
+    "class_name": "line",
+    "class_id": 2,
+    "confidence": 0.942110002040863
+  },
+  {
     "page_number": 587,
     "line_number": 1,
     "sura_number": 79,
